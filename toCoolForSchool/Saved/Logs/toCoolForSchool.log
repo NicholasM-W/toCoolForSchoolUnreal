@@ -5921,3 +5921,824 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.12-17.11.19:177][ 55]LogFab: Display: Fab workflow registered for asset 74d32393-7ada-40a0-acc7-48e28e9554cf (1 in flight)
 [2026.11.12-17.11.19:341][ 58]LogFab: Error: Failed to download Megascans Asset 74d32393-7ada-40a0-acc7-48e28e9554cf
 [2026.11.12-17.11.19:346][ 59]LogFab: Display: Fab workflow cancelled for asset 74d32393-7ada-40a0-acc7-48e28e9554cf
+[2026.11.12-17.12.31:998][ 55]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node FFF66DD4450123476AF2A39BF7EC9A97 (172.18.51.30:65337)
+[2026.11.12-17.12.32:594][ 56]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node 28AF0A3C4BC651997729B2AAA6C6DFCE (172.18.51.30:56111)
+[2026.11.12-17.13.05:318][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.12-17.13.05:408][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.11.12-17.13.05:424][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.11.12-17.13.05:441][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.11.12-17.13.05:442][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/7K/AALPXM0X7MJT0OZFD4FRAH
+[2026.11.12-17.13.05:451][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/7K/AALPXM0X7MJT0OZFD4FRAH
+[2026.11.12-17.13.05:451][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/AALPXM0X7MJT0OZFD4FRAHA79FD02948CC52DED87A5C8EF887C917.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/7K/AALPXM0X7MJT0OZFD4FRAH.uasset'
+[2026.11.12-17.13.05:453][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/D1/GAUUZJJOYFFZ95S3JLPVJ1
+[2026.11.12-17.13.05:461][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/D1/GAUUZJJOYFFZ95S3JLPVJ1
+[2026.11.12-17.13.05:461][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/GAUUZJJOYFFZ95S3JLPVJ1EBC48820417BAB25A27AE98578CA2384.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/D1/GAUUZJJOYFFZ95S3JLPVJ1.uasset'
+[2026.11.12-17.13.05:462][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/0K/U26MT8II0GJ1NDOGHCJGGM
+[2026.11.12-17.13.05:469][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/0K/U26MT8II0GJ1NDOGHCJGGM
+[2026.11.12-17.13.05:469][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/U26MT8II0GJ1NDOGHCJGGM069A51E44CBBFAFA3AC6C1B4EC89EBCF.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/0K/U26MT8II0GJ1NDOGHCJGGM.uasset'
+[2026.11.12-17.13.05:470][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/98/WSD1VZ53KKH4KIQQA82Y1I
+[2026.11.12-17.13.05:477][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/98/WSD1VZ53KKH4KIQQA82Y1I
+[2026.11.12-17.13.05:477][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/WSD1VZ53KKH4KIQQA82Y1IF7959F4C46221D1B2CEBF9A8084799BD.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/98/WSD1VZ53KKH4KIQQA82Y1I.uasset'
+[2026.11.12-17.13.05:478][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/I9/525AQXQV6DTP6NB1O6DAPP
+[2026.11.12-17.13.05:486][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/I9/525AQXQV6DTP6NB1O6DAPP
+[2026.11.12-17.13.05:486][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/525AQXQV6DTP6NB1O6DAPP3E6973D5486A2B63546016BCA6E82A78.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/I9/525AQXQV6DTP6NB1O6DAPP.uasset'
+[2026.11.12-17.13.05:487][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/1/MX/MXFXIPK9D845QDUURGXM1I
+[2026.11.12-17.13.05:494][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/MX/MXFXIPK9D845QDUURGXM1I
+[2026.11.12-17.13.05:494][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/MXFXIPK9D845QDUURGXM1ID772377B46569B85AE00D3A8059D369B.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/1/MX/MXFXIPK9D845QDUURGXM1I.uasset'
+[2026.11.12-17.13.05:495][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/MC/WA684E1ABJSB8CAQCRKQ1K
+[2026.11.12-17.13.05:501][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/MC/WA684E1ABJSB8CAQCRKQ1K
+[2026.11.12-17.13.05:501][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/WA684E1ABJSB8CAQCRKQ1K38D616304162B0307ABA62A472D17E25.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/MC/WA684E1ABJSB8CAQCRKQ1K.uasset'
+[2026.11.12-17.13.05:502][154]LogFileHelpers: Saving Package: /Game/__ExternalObjects__/MainMap/8/MQ/NE2AJT8YLPQOJUTTU66DLZ
+[2026.11.12-17.13.05:509][154]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MainMap/8/MQ/NE2AJT8YLPQOJUTTU66DLZ
+[2026.11.12-17.13.05:509][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/NE2AJT8YLPQOJUTTU66DLZA1224BF140A0BED1084FDE9E3A6831FE.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalObjects__/MainMap/8/MQ/NE2AJT8YLPQOJUTTU66DLZ.uasset'
+[2026.11.12-17.13.05:511][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/3/OQ/4CJKG6QR0LTAWXDAN1NPXO
+[2026.11.12-17.13.05:518][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/OQ/4CJKG6QR0LTAWXDAN1NPXO
+[2026.11.12-17.13.05:518][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/4CJKG6QR0LTAWXDAN1NPXO24A2BEEF4BBAB7B3A79DF7A12487FC7E.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/3/OQ/4CJKG6QR0LTAWXDAN1NPXO.uasset'
+[2026.11.12-17.13.05:519][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/E2/ZRE0WM4X5IN04NXGW4UO5I
+[2026.11.12-17.13.05:526][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/E2/ZRE0WM4X5IN04NXGW4UO5I
+[2026.11.12-17.13.05:526][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/ZRE0WM4X5IN04NXGW4UO5ID4989AF74D98C08915388DAD93374FAC.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/E2/ZRE0WM4X5IN04NXGW4UO5I.uasset'
+[2026.11.12-17.13.05:527][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/B/OT/8QHFXMZFEYLNZXRN6Z0Y21
+[2026.11.12-17.13.05:534][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/OT/8QHFXMZFEYLNZXRN6Z0Y21
+[2026.11.12-17.13.05:534][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/8QHFXMZFEYLNZXRN6Z0Y21D462D43A45569305F02843A676957760.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/B/OT/8QHFXMZFEYLNZXRN6Z0Y21.uasset'
+[2026.11.12-17.13.05:535][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/UM/DTLRR04UPH8Q3SNOOSH2TK
+[2026.11.12-17.13.05:542][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/UM/DTLRR04UPH8Q3SNOOSH2TK
+[2026.11.12-17.13.05:542][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/DTLRR04UPH8Q3SNOOSH2TK43660024488CB65C73E79E86A0933589.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/UM/DTLRR04UPH8Q3SNOOSH2TK.uasset'
+[2026.11.12-17.13.05:543][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/X8/M59X2G32XRWG65Z9M3Y5XG
+[2026.11.12-17.13.05:549][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/X8/M59X2G32XRWG65Z9M3Y5XG
+[2026.11.12-17.13.05:549][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/M59X2G32XRWG65Z9M3Y5XGD38F427D454DBF06F9451EA71A966FAD.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/X8/M59X2G32XRWG65Z9M3Y5XG.uasset'
+[2026.11.12-17.13.05:550][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/3/C8/4WGH1HOQRLJ03Y1GEQNBRH
+[2026.11.12-17.13.05:557][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/C8/4WGH1HOQRLJ03Y1GEQNBRH
+[2026.11.12-17.13.05:557][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/4WGH1HOQRLJ03Y1GEQNBRH8C079F314F03ED5E0DD85B99C8AA5A35.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/3/C8/4WGH1HOQRLJ03Y1GEQNBRH.uasset'
+[2026.11.12-17.13.05:558][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/A/9V/3JVNA61LJ0NLU2DBB078WB
+[2026.11.12-17.13.05:563][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/9V/3JVNA61LJ0NLU2DBB078WB
+[2026.11.12-17.13.05:563][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/3JVNA61LJ0NLU2DBB078WBB831F5A24F214C13EBDA14A9B5EB2242.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/A/9V/3JVNA61LJ0NLU2DBB078WB.uasset'
+[2026.11.12-17.13.05:564][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/H5/Z3JSJKLYG4RJX50GBX1K7T
+[2026.11.12-17.13.05:570][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/H5/Z3JSJKLYG4RJX50GBX1K7T
+[2026.11.12-17.13.05:570][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/Z3JSJKLYG4RJX50GBX1K7TFA0C406B4416F72FAF672BB7A1447386.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/H5/Z3JSJKLYG4RJX50GBX1K7T.uasset'
+[2026.11.12-17.13.05:573][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/JW/QJTXVYWH57459YDRSQU20I
+[2026.11.12-17.13.05:581][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/JW/QJTXVYWH57459YDRSQU20I
+[2026.11.12-17.13.05:581][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/QJTXVYWH57459YDRSQU20I36A25E7E4C0919E7A140168626C658AF.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/JW/QJTXVYWH57459YDRSQU20I.uasset'
+[2026.11.12-17.13.05:582][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/8P/WS46VUJY2J8PR9XEOUI646
+[2026.11.12-17.13.05:588][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/8P/WS46VUJY2J8PR9XEOUI646
+[2026.11.12-17.13.05:588][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/WS46VUJY2J8PR9XEOUI646A75A9AA04496A3649A1737BF5DB6A80F.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/8P/WS46VUJY2J8PR9XEOUI646.uasset'
+[2026.11.12-17.13.05:589][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/RD/ORS7HGAZQAUEHI9YCJ758G
+[2026.11.12-17.13.05:596][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/RD/ORS7HGAZQAUEHI9YCJ758G
+[2026.11.12-17.13.05:596][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/ORS7HGAZQAUEHI9YCJ758G854ECED547992DA94AF1B6BF0590CCE9.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/RD/ORS7HGAZQAUEHI9YCJ758G.uasset'
+[2026.11.12-17.13.05:597][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/A2/QZ7PXGQD25EUD992Z4T48F
+[2026.11.12-17.13.05:604][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/A2/QZ7PXGQD25EUD992Z4T48F
+[2026.11.12-17.13.05:604][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/QZ7PXGQD25EUD992Z4T48FB08C980B4E2F32C886D35FBA937DE754.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/A2/QZ7PXGQD25EUD992Z4T48F.uasset'
+[2026.11.12-17.13.05:605][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/69/IIDRJS4XW47ZQGFAZND5KG
+[2026.11.12-17.13.05:612][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/69/IIDRJS4XW47ZQGFAZND5KG
+[2026.11.12-17.13.05:612][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/IIDRJS4XW47ZQGFAZND5KG839DB6C647171C6BE0B9F4B195565ED5.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/69/IIDRJS4XW47ZQGFAZND5KG.uasset'
+[2026.11.12-17.13.05:613][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/K9/40G19TN7HOMOE96Y9U4A6U
+[2026.11.12-17.13.05:619][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/K9/40G19TN7HOMOE96Y9U4A6U
+[2026.11.12-17.13.05:619][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/40G19TN7HOMOE96Y9U4A6UDAB7DEDE40241680A24B5884980D59BD.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/K9/40G19TN7HOMOE96Y9U4A6U.uasset'
+[2026.11.12-17.13.05:620][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/9J/OZZ13O0AVQ7V8SQBRXJG1A
+[2026.11.12-17.13.05:626][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/9J/OZZ13O0AVQ7V8SQBRXJG1A
+[2026.11.12-17.13.05:626][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/OZZ13O0AVQ7V8SQBRXJG1A54EF99A640F40A1F3958D3BFF4A8140E.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/9J/OZZ13O0AVQ7V8SQBRXJG1A.uasset'
+[2026.11.12-17.13.05:627][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/N2/JQWWHF91MK6VNDCD19PKWB
+[2026.11.12-17.13.05:634][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/N2/JQWWHF91MK6VNDCD19PKWB
+[2026.11.12-17.13.05:634][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/JQWWHF91MK6VNDCD19PKWB0EF6753E47E6AF1DD180B087A1FB28A7.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/N2/JQWWHF91MK6VNDCD19PKWB.uasset'
+[2026.11.12-17.13.05:635][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/ZR/KQ77GJ2SUEHYYX1T6X3ABA
+[2026.11.12-17.13.05:642][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/ZR/KQ77GJ2SUEHYYX1T6X3ABA
+[2026.11.12-17.13.05:642][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/KQ77GJ2SUEHYYX1T6X3ABA0DE333484CA4DD73056A4584CFE7CD59.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/ZR/KQ77GJ2SUEHYYX1T6X3ABA.uasset'
+[2026.11.12-17.13.05:643][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/9A/I4ZWH9A4X1WSUQQQCK1CQU
+[2026.11.12-17.13.05:651][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/9A/I4ZWH9A4X1WSUQQQCK1CQU
+[2026.11.12-17.13.05:651][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/I4ZWH9A4X1WSUQQQCK1CQU2DAAA46F4BA3BAA844A57FA304C4314F.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/9A/I4ZWH9A4X1WSUQQQCK1CQU.uasset'
+[2026.11.12-17.13.05:653][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/6K/WES87DIYKWE4P2RK9NDEGL
+[2026.11.12-17.13.05:659][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/6K/WES87DIYKWE4P2RK9NDEGL
+[2026.11.12-17.13.05:659][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/WES87DIYKWE4P2RK9NDEGL6A8D43944FFC45E5C52E31B8BE7F10EA.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/6K/WES87DIYKWE4P2RK9NDEGL.uasset'
+[2026.11.12-17.13.05:660][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/NT/8VGTTD3F0QAT96PPVPI1CW
+[2026.11.12-17.13.05:666][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/NT/8VGTTD3F0QAT96PPVPI1CW
+[2026.11.12-17.13.05:666][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/8VGTTD3F0QAT96PPVPI1CW80FB617746F0DBA9F7E241AC293C2697.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/NT/8VGTTD3F0QAT96PPVPI1CW.uasset'
+[2026.11.12-17.13.05:667][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/YQ/ZP56QF9YF7KU2UABK5CF59
+[2026.11.12-17.13.05:675][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/YQ/ZP56QF9YF7KU2UABK5CF59
+[2026.11.12-17.13.05:675][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/ZP56QF9YF7KU2UABK5CF591ABBD6864A42F258CDCE5CA3A28E316A.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/YQ/ZP56QF9YF7KU2UABK5CF59.uasset'
+[2026.11.12-17.13.05:676][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/HY/W889G5416P139ZKH2O49NT
+[2026.11.12-17.13.05:682][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/HY/W889G5416P139ZKH2O49NT
+[2026.11.12-17.13.05:682][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/W889G5416P139ZKH2O49NTB1BC0E3A401BA3134A3DFFA09E315A5E.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/HY/W889G5416P139ZKH2O49NT.uasset'
+[2026.11.12-17.13.05:683][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/2Y/VZESQ1SOKVSK8QPS74H1CY
+[2026.11.12-17.13.05:690][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/2Y/VZESQ1SOKVSK8QPS74H1CY
+[2026.11.12-17.13.05:690][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/VZESQ1SOKVSK8QPS74H1CY8A4E4220408E14526342D9BF76518D11.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/2Y/VZESQ1SOKVSK8QPS74H1CY.uasset'
+[2026.11.12-17.13.05:690][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/B/V7/1N9WC8PEY0K7AZX9DWP6BG
+[2026.11.12-17.13.05:697][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/V7/1N9WC8PEY0K7AZX9DWP6BG
+[2026.11.12-17.13.05:697][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/1N9WC8PEY0K7AZX9DWP6BG9C2B2D1F429A8F7DFE581C8392FE9E9D.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/B/V7/1N9WC8PEY0K7AZX9DWP6BG.uasset'
+[2026.11.12-17.13.05:698][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/TL/0B6SLJO11BK8UANX8MIZOK
+[2026.11.12-17.13.05:703][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/TL/0B6SLJO11BK8UANX8MIZOK
+[2026.11.12-17.13.05:703][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/0B6SLJO11BK8UANX8MIZOKE0522E2347E5D9AC617E4790B0B848B4.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/TL/0B6SLJO11BK8UANX8MIZOK.uasset'
+[2026.11.12-17.13.05:704][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/B0/2AXOSJS50V21MF0ZOIDZ2E
+[2026.11.12-17.13.05:713][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/B0/2AXOSJS50V21MF0ZOIDZ2E
+[2026.11.12-17.13.05:713][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/2AXOSJS50V21MF0ZOIDZ2E7627663F41C9C0BC772EDA8FAFA50334.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/B0/2AXOSJS50V21MF0ZOIDZ2E.uasset'
+[2026.11.12-17.13.05:714][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/NR/DT1UJGP68M8IIDIW7680OM
+[2026.11.12-17.13.05:720][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/NR/DT1UJGP68M8IIDIW7680OM
+[2026.11.12-17.13.05:720][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/DT1UJGP68M8IIDIW7680OM438B5C4B451162103EAE4CAB52B7FA92.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/NR/DT1UJGP68M8IIDIW7680OM.uasset'
+[2026.11.12-17.13.05:721][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/NY/DEYZN0AOC28S9L7UOMN1S9
+[2026.11.12-17.13.05:730][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/NY/DEYZN0AOC28S9L7UOMN1S9
+[2026.11.12-17.13.05:730][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/DEYZN0AOC28S9L7UOMN1S9B1E1D6D84DD52ACF38BC69867FF4496A.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/NY/DEYZN0AOC28S9L7UOMN1S9.uasset'
+[2026.11.12-17.13.05:731][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/S9/Z0ZLQZTS33AC5H087KEJ6B
+[2026.11.12-17.13.05:738][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/S9/Z0ZLQZTS33AC5H087KEJ6B
+[2026.11.12-17.13.05:738][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/Z0ZLQZTS33AC5H087KEJ6B4299AA354E1D2D484AB0B39FD99C6A3B.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/S9/Z0ZLQZTS33AC5H087KEJ6B.uasset'
+[2026.11.12-17.13.05:739][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/A/J3/WJLPGXZZKJZ64H7EEIS54C
+[2026.11.12-17.13.05:747][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/J3/WJLPGXZZKJZ64H7EEIS54C
+[2026.11.12-17.13.05:747][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/WJLPGXZZKJZ64H7EEIS54CEF4C33E84068F194DF9A1EAFF776F895.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/A/J3/WJLPGXZZKJZ64H7EEIS54C.uasset'
+[2026.11.12-17.13.05:748][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/71/VNC1NA2KWN40WJ76B2DQ83
+[2026.11.12-17.13.05:755][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/71/VNC1NA2KWN40WJ76B2DQ83
+[2026.11.12-17.13.05:755][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/VNC1NA2KWN40WJ76B2DQ83C4330F834BA5F70A7B0592BE204EB9C3.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/71/VNC1NA2KWN40WJ76B2DQ83.uasset'
+[2026.11.12-17.13.05:756][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/BI/0AXPDICZ5UOT4A4QCPV6UG
+[2026.11.12-17.13.05:765][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/BI/0AXPDICZ5UOT4A4QCPV6UG
+[2026.11.12-17.13.05:765][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/0AXPDICZ5UOT4A4QCPV6UG39EDB6D042F68BEAAF4A609FD8DCDD08.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/BI/0AXPDICZ5UOT4A4QCPV6UG.uasset'
+[2026.11.12-17.13.05:766][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/3/1B/7PBP2NRLJ69933K6XEHK4W
+[2026.11.12-17.13.05:772][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/1B/7PBP2NRLJ69933K6XEHK4W
+[2026.11.12-17.13.05:772][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/7PBP2NRLJ69933K6XEHK4WC6CE61EB449320D0424B74BEF24FDB71.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/3/1B/7PBP2NRLJ69933K6XEHK4W.uasset'
+[2026.11.12-17.13.05:774][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/4A/4MOV2M4671GVM2K9M75C7A
+[2026.11.12-17.13.05:781][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/4A/4MOV2M4671GVM2K9M75C7A
+[2026.11.12-17.13.05:781][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/4MOV2M4671GVM2K9M75C7A7AB14F3341E45154BCBEB584893EFCCE.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/4A/4MOV2M4671GVM2K9M75C7A.uasset'
+[2026.11.12-17.13.05:782][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/5B/6T15T9Z0CUOFZCUWHYNUSV
+[2026.11.12-17.13.05:789][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/5B/6T15T9Z0CUOFZCUWHYNUSV
+[2026.11.12-17.13.05:789][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/6T15T9Z0CUOFZCUWHYNUSVE7C84C1346FC51215E5D4293AEF9D5AB.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/5B/6T15T9Z0CUOFZCUWHYNUSV.uasset'
+[2026.11.12-17.13.05:790][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/KL/0FDHPN1J6EU6TNP1A5JPJY
+[2026.11.12-17.13.05:797][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/KL/0FDHPN1J6EU6TNP1A5JPJY
+[2026.11.12-17.13.05:797][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/0FDHPN1J6EU6TNP1A5JPJYA1F9A18742C7CBE72433FC955B97297D.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/KL/0FDHPN1J6EU6TNP1A5JPJY.uasset'
+[2026.11.12-17.13.05:798][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/0T/G4Y6QRIIJVPQ4XLP9NYZ7P
+[2026.11.12-17.13.05:805][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/0T/G4Y6QRIIJVPQ4XLP9NYZ7P
+[2026.11.12-17.13.05:805][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/G4Y6QRIIJVPQ4XLP9NYZ7PE7C73847404F4B0FFA3AE7B70707303E.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/0T/G4Y6QRIIJVPQ4XLP9NYZ7P.uasset'
+[2026.11.12-17.13.05:806][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/RT/M2FKID18OAP8BWC3E31L7B
+[2026.11.12-17.13.05:815][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/RT/M2FKID18OAP8BWC3E31L7B
+[2026.11.12-17.13.05:815][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/M2FKID18OAP8BWC3E31L7B86FBEA5847197AF1A3CADFAB0BB909E0.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/RT/M2FKID18OAP8BWC3E31L7B.uasset'
+[2026.11.12-17.13.05:816][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/JD/A5QW0M3UFW18KNXTAGB70Q
+[2026.11.12-17.13.05:823][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/JD/A5QW0M3UFW18KNXTAGB70Q
+[2026.11.12-17.13.05:823][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/A5QW0M3UFW18KNXTAGB70Q5B553E4344EDA928A7FBE29CFAD3ED56.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/JD/A5QW0M3UFW18KNXTAGB70Q.uasset'
+[2026.11.12-17.13.05:824][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/6Y/O859L7TLSO1XB5RIJR6S3C
+[2026.11.12-17.13.05:829][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/6Y/O859L7TLSO1XB5RIJR6S3C
+[2026.11.12-17.13.05:829][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/O859L7TLSO1XB5RIJR6S3C4D047C2347B28E6DF09EF287DC49A059.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/6Y/O859L7TLSO1XB5RIJR6S3C.uasset'
+[2026.11.12-17.13.05:830][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/LL/JA374TSDP9JUUSTGYFBJVP
+[2026.11.12-17.13.05:837][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/LL/JA374TSDP9JUUSTGYFBJVP
+[2026.11.12-17.13.05:837][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/JA374TSDP9JUUSTGYFBJVP2AB7DB0B45EE11A85C69C08D7A6ACBED.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/LL/JA374TSDP9JUUSTGYFBJVP.uasset'
+[2026.11.12-17.13.05:838][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/H4/UOU4UVH804ETGJULEWGI54
+[2026.11.12-17.13.05:845][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/H4/UOU4UVH804ETGJULEWGI54
+[2026.11.12-17.13.05:845][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/UOU4UVH804ETGJULEWGI54432FB7CA4380C871AE2F73A254D65914.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/H4/UOU4UVH804ETGJULEWGI54.uasset'
+[2026.11.12-17.13.05:846][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/A/XR/60LJQ3A2SMOTRLOI1IJ5V8
+[2026.11.12-17.13.05:853][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/XR/60LJQ3A2SMOTRLOI1IJ5V8
+[2026.11.12-17.13.05:853][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/60LJQ3A2SMOTRLOI1IJ5V8A21E529F48FA590A864EDABA784CC426.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/A/XR/60LJQ3A2SMOTRLOI1IJ5V8.uasset'
+[2026.11.12-17.13.05:854][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/Q0/UKQG6VE8ZVPUR0B8IATPMH
+[2026.11.12-17.13.05:860][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/Q0/UKQG6VE8ZVPUR0B8IATPMH
+[2026.11.12-17.13.05:860][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/UKQG6VE8ZVPUR0B8IATPMHC1544D5D4C3885A9E76F28803354A6CE.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/Q0/UKQG6VE8ZVPUR0B8IATPMH.uasset'
+[2026.11.12-17.13.05:863][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/VI/SAX1D39HH13KQAN9A1FHRI
+[2026.11.12-17.13.05:869][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/VI/SAX1D39HH13KQAN9A1FHRI
+[2026.11.12-17.13.05:869][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/SAX1D39HH13KQAN9A1FHRIDAE4CAAF4EA7B35455B8A69FC67BFE97.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/VI/SAX1D39HH13KQAN9A1FHRI.uasset'
+[2026.11.12-17.13.05:871][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/1R/MIDEN0G30DNEBSDUHANHT8
+[2026.11.12-17.13.05:877][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/1R/MIDEN0G30DNEBSDUHANHT8
+[2026.11.12-17.13.05:877][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/MIDEN0G30DNEBSDUHANHT8D11AAD65489A92024B2D88B7BD55311B.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/1R/MIDEN0G30DNEBSDUHANHT8.uasset'
+[2026.11.12-17.13.05:878][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/3I/WF11P4139RECWT6CCU59X7
+[2026.11.12-17.13.05:884][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/3I/WF11P4139RECWT6CCU59X7
+[2026.11.12-17.13.05:884][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/WF11P4139RECWT6CCU59X769E2FA4D41FADCCBB665B6B8793617BC.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/3I/WF11P4139RECWT6CCU59X7.uasset'
+[2026.11.12-17.13.05:885][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/ID/CAH1QCB14FUFFCGZBNZKBF
+[2026.11.12-17.13.05:892][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/ID/CAH1QCB14FUFFCGZBNZKBF
+[2026.11.12-17.13.05:892][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/CAH1QCB14FUFFCGZBNZKBF14A237C947FFF4E45FAF679558AFC560.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/ID/CAH1QCB14FUFFCGZBNZKBF.uasset'
+[2026.11.12-17.13.05:893][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/3/OZ/2R76ZINSEBBHZZ3L6MK3AC
+[2026.11.12-17.13.05:900][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/OZ/2R76ZINSEBBHZZ3L6MK3AC
+[2026.11.12-17.13.05:900][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/2R76ZINSEBBHZZ3L6MK3AC190298B2400A13D4F44A9CA01A7A8C5C.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/3/OZ/2R76ZINSEBBHZZ3L6MK3AC.uasset'
+[2026.11.12-17.13.05:901][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/DB/I5AV3BXEPXUQ7SVFZ4287L
+[2026.11.12-17.13.05:907][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/DB/I5AV3BXEPXUQ7SVFZ4287L
+[2026.11.12-17.13.05:907][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/I5AV3BXEPXUQ7SVFZ4287LCBFF144843210F517F344593F8983688.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/DB/I5AV3BXEPXUQ7SVFZ4287L.uasset'
+[2026.11.12-17.13.05:908][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/A/81/EWQWZ3VFYGIO71GBGWWA27
+[2026.11.12-17.13.05:914][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/81/EWQWZ3VFYGIO71GBGWWA27
+[2026.11.12-17.13.05:914][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/EWQWZ3VFYGIO71GBGWWA2755BCE02A4C49FD5F3ADDB9A99B516D5D.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/A/81/EWQWZ3VFYGIO71GBGWWA27.uasset'
+[2026.11.12-17.13.05:915][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/ZV/7DSO385R70YL1KQD26X1IB
+[2026.11.12-17.13.05:922][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/ZV/7DSO385R70YL1KQD26X1IB
+[2026.11.12-17.13.05:922][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/7DSO385R70YL1KQD26X1IBDA2C29BD45C8EE0F7440438D0F19AD9B.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/ZV/7DSO385R70YL1KQD26X1IB.uasset'
+[2026.11.12-17.13.05:923][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/Z1/59S2KXKDRUEVL1RHFLTMN8
+[2026.11.12-17.13.05:930][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/Z1/59S2KXKDRUEVL1RHFLTMN8
+[2026.11.12-17.13.05:931][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/59S2KXKDRUEVL1RHFLTMN8DB6C70744E0E107A2826778BB605F000.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/Z1/59S2KXKDRUEVL1RHFLTMN8.uasset'
+[2026.11.12-17.13.05:932][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/4Q/TKEV4QUI2ZC6KBPWCPZXQI
+[2026.11.12-17.13.05:938][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/4Q/TKEV4QUI2ZC6KBPWCPZXQI
+[2026.11.12-17.13.05:938][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/TKEV4QUI2ZC6KBPWCPZXQI1C8A9C944B701DB617416786E05BFF60.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/4Q/TKEV4QUI2ZC6KBPWCPZXQI.uasset'
+[2026.11.12-17.13.05:939][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/B/6Z/X61FOJ0NI2AK0OVTA0JIQ9
+[2026.11.12-17.13.05:946][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/6Z/X61FOJ0NI2AK0OVTA0JIQ9
+[2026.11.12-17.13.05:946][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/X61FOJ0NI2AK0OVTA0JIQ987E88C0749FAA9C853AAC7A3DA7A4312.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/B/6Z/X61FOJ0NI2AK0OVTA0JIQ9.uasset'
+[2026.11.12-17.13.05:947][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/YO/ENRY6LKP9EPJU2WLTSNPW0
+[2026.11.12-17.13.05:955][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/YO/ENRY6LKP9EPJU2WLTSNPW0
+[2026.11.12-17.13.05:955][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/ENRY6LKP9EPJU2WLTSNPW049A883F9415030CA946FC481160BD978.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/YO/ENRY6LKP9EPJU2WLTSNPW0.uasset'
+[2026.11.12-17.13.05:956][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/ZG/18FK5C0Y4JTIKVZ7FH1SO5
+[2026.11.12-17.13.05:962][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/ZG/18FK5C0Y4JTIKVZ7FH1SO5
+[2026.11.12-17.13.05:962][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/18FK5C0Y4JTIKVZ7FH1SO55D21F52F439226BB4B4773B8C3EBFCB4.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/ZG/18FK5C0Y4JTIKVZ7FH1SO5.uasset'
+[2026.11.12-17.13.05:963][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/02/1MCAFO0FV0APKZ419W7FMM
+[2026.11.12-17.13.05:969][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/02/1MCAFO0FV0APKZ419W7FMM
+[2026.11.12-17.13.05:969][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/1MCAFO0FV0APKZ419W7FMMC31EB7754B902BE36016F5939A27AC68.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/02/1MCAFO0FV0APKZ419W7FMM.uasset'
+[2026.11.12-17.13.05:970][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/5N/91OGPCFCAC2BUKAA4F5DMH
+[2026.11.12-17.13.05:977][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/5N/91OGPCFCAC2BUKAA4F5DMH
+[2026.11.12-17.13.05:977][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/91OGPCFCAC2BUKAA4F5DMH0549750544B30F0ED0040EA4750ACB94.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/5N/91OGPCFCAC2BUKAA4F5DMH.uasset'
+[2026.11.12-17.13.05:979][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/B/9M/01ULM5SF6WZRYBEQ6KLV2D
+[2026.11.12-17.13.05:986][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/9M/01ULM5SF6WZRYBEQ6KLV2D
+[2026.11.12-17.13.05:986][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/01ULM5SF6WZRYBEQ6KLV2DB4124BEB43639AB977BE84B696E05920.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/B/9M/01ULM5SF6WZRYBEQ6KLV2D.uasset'
+[2026.11.12-17.13.05:987][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/B/57/FD8P7AD1B4MMDC6YE7BIMC
+[2026.11.12-17.13.05:994][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/57/FD8P7AD1B4MMDC6YE7BIMC
+[2026.11.12-17.13.05:994][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/FD8P7AD1B4MMDC6YE7BIMC71D09FC04E97B01EBAF893B0286FB0F0.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/B/57/FD8P7AD1B4MMDC6YE7BIMC.uasset'
+[2026.11.12-17.13.05:995][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/JR/W1IP7NN1DK0JX16H1L0HII
+[2026.11.12-17.13.06:002][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/JR/W1IP7NN1DK0JX16H1L0HII
+[2026.11.12-17.13.06:002][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/W1IP7NN1DK0JX16H1L0HIIDDF78CEF4AA6B3D064E609843E53C4D5.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/JR/W1IP7NN1DK0JX16H1L0HII.uasset'
+[2026.11.12-17.13.06:003][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/A/F5/6PSV237X861V5UQOMB413C
+[2026.11.12-17.13.06:010][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/F5/6PSV237X861V5UQOMB413C
+[2026.11.12-17.13.06:010][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/6PSV237X861V5UQOMB413C36AEF0734F20D47D393D469573C0BB96.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/A/F5/6PSV237X861V5UQOMB413C.uasset'
+[2026.11.12-17.13.06:011][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/OZ/88Z2OONP0B0G02JNLJPGCU
+[2026.11.12-17.13.06:017][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/OZ/88Z2OONP0B0G02JNLJPGCU
+[2026.11.12-17.13.06:017][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/88Z2OONP0B0G02JNLJPGCU9E42657E4921233C62530C8A42B72B62.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/OZ/88Z2OONP0B0G02JNLJPGCU.uasset'
+[2026.11.12-17.13.06:018][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/OR/EAVLTYRR8Z9JGES90VVFBE
+[2026.11.12-17.13.06:024][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/OR/EAVLTYRR8Z9JGES90VVFBE
+[2026.11.12-17.13.06:024][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/EAVLTYRR8Z9JGES90VVFBE10B4C29643257DAE7EB220898F0D8A3F.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/OR/EAVLTYRR8Z9JGES90VVFBE.uasset'
+[2026.11.12-17.13.06:025][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/J8/DQD9S7DLX9CO8FJ8MX7A3B
+[2026.11.12-17.13.06:032][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/J8/DQD9S7DLX9CO8FJ8MX7A3B
+[2026.11.12-17.13.06:033][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/DQD9S7DLX9CO8FJ8MX7A3B7F2D71B74AA23F5B507C5B8D55C416FC.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/J8/DQD9S7DLX9CO8FJ8MX7A3B.uasset'
+[2026.11.12-17.13.06:034][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/7P/WUV8KJO0M669MVZFTPC4DK
+[2026.11.12-17.13.06:040][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/7P/WUV8KJO0M669MVZFTPC4DK
+[2026.11.12-17.13.06:040][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/WUV8KJO0M669MVZFTPC4DK92C9416C4F691C5B9952DE9B305ED55D.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/7P/WUV8KJO0M669MVZFTPC4DK.uasset'
+[2026.11.12-17.13.06:041][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/3S/RZRIZVEHREMXLSM63O2DZN
+[2026.11.12-17.13.06:047][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/3S/RZRIZVEHREMXLSM63O2DZN
+[2026.11.12-17.13.06:047][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/RZRIZVEHREMXLSM63O2DZND6F1C95D426D3EF0E05BDAB6105139B6.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/3S/RZRIZVEHREMXLSM63O2DZN.uasset'
+[2026.11.12-17.13.06:048][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/3/3N/7SLWMUA9V8U2ECGCPQ6MF5
+[2026.11.12-17.13.06:056][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/3N/7SLWMUA9V8U2ECGCPQ6MF5
+[2026.11.12-17.13.06:056][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/7SLWMUA9V8U2ECGCPQ6MF59C4BD5184E35C8C2FFD31CAA2B59E576.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/3/3N/7SLWMUA9V8U2ECGCPQ6MF5.uasset'
+[2026.11.12-17.13.06:057][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/TJ/VTMT1ELYD6OUK9LZ1V162L
+[2026.11.12-17.13.06:063][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/TJ/VTMT1ELYD6OUK9LZ1V162L
+[2026.11.12-17.13.06:063][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/VTMT1ELYD6OUK9LZ1V162LCF9646B044BA4B60236FDFBF3660E902.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/TJ/VTMT1ELYD6OUK9LZ1V162L.uasset'
+[2026.11.12-17.13.06:065][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/KH/U7GQ2OEWR4A7MQDRKNXGH8
+[2026.11.12-17.13.06:071][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/KH/U7GQ2OEWR4A7MQDRKNXGH8
+[2026.11.12-17.13.06:071][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/U7GQ2OEWR4A7MQDRKNXGH84EF5A2AF488F4F5FC90676B9F5A013CE.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/KH/U7GQ2OEWR4A7MQDRKNXGH8.uasset'
+[2026.11.12-17.13.06:072][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/95/454KZ8Z18BDCIIPUMZEV32
+[2026.11.12-17.13.06:078][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/95/454KZ8Z18BDCIIPUMZEV32
+[2026.11.12-17.13.06:078][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/454KZ8Z18BDCIIPUMZEV3263F27E884AC27BFEBBFF978F9729C6C0.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/95/454KZ8Z18BDCIIPUMZEV32.uasset'
+[2026.11.12-17.13.06:079][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/1H/MZIODC26GCVY6XOSQ7WXK8
+[2026.11.12-17.13.06:086][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/1H/MZIODC26GCVY6XOSQ7WXK8
+[2026.11.12-17.13.06:086][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/MZIODC26GCVY6XOSQ7WXK8E1D2F3DD4886410069E23181F943E89F.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/1H/MZIODC26GCVY6XOSQ7WXK8.uasset'
+[2026.11.12-17.13.06:087][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/RI/3CSGSABTL5NF8S98B1LO11
+[2026.11.12-17.13.06:094][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/RI/3CSGSABTL5NF8S98B1LO11
+[2026.11.12-17.13.06:094][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/3CSGSABTL5NF8S98B1LO116E2CF7B14AC0A9DB1ECDD2ADBC1F5272.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/RI/3CSGSABTL5NF8S98B1LO11.uasset'
+[2026.11.12-17.13.06:095][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/EL/J24EQL9DR8A9NFCFSHL9AK
+[2026.11.12-17.13.06:101][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/EL/J24EQL9DR8A9NFCFSHL9AK
+[2026.11.12-17.13.06:101][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/J24EQL9DR8A9NFCFSHL9AKAE0BDD9D4E0E8B8623D01BAF336FFF27.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/EL/J24EQL9DR8A9NFCFSHL9AK.uasset'
+[2026.11.12-17.13.06:102][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/2W/06S12I6ABDDL1HZKVUZ1FP
+[2026.11.12-17.13.06:108][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/2W/06S12I6ABDDL1HZKVUZ1FP
+[2026.11.12-17.13.06:108][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/06S12I6ABDDL1HZKVUZ1FPB251BDC3456190D8D5E17DA9D2C065EE.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/2W/06S12I6ABDDL1HZKVUZ1FP.uasset'
+[2026.11.12-17.13.06:110][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/B8/WCE3YN3TGA5JOXKH399FRO
+[2026.11.12-17.13.06:117][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/B8/WCE3YN3TGA5JOXKH399FRO
+[2026.11.12-17.13.06:117][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/WCE3YN3TGA5JOXKH399FROE490845C42D3AEE1BE58A1864AD776EE.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/B8/WCE3YN3TGA5JOXKH399FRO.uasset'
+[2026.11.12-17.13.06:118][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/FN/GBE2DP348AC8PYJMYKSFWP
+[2026.11.12-17.13.06:124][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/FN/GBE2DP348AC8PYJMYKSFWP
+[2026.11.12-17.13.06:124][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/GBE2DP348AC8PYJMYKSFWPB6262B8F40E0E86199555A8602A4C636.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/FN/GBE2DP348AC8PYJMYKSFWP.uasset'
+[2026.11.12-17.13.06:125][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/FA/U3ODQEDPP8LEESLCCLLQUR
+[2026.11.12-17.13.06:132][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/FA/U3ODQEDPP8LEESLCCLLQUR
+[2026.11.12-17.13.06:132][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/U3ODQEDPP8LEESLCCLLQURBF6AEB5943BA64D4B48035AE8CD47121.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/FA/U3ODQEDPP8LEESLCCLLQUR.uasset'
+[2026.11.12-17.13.06:133][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/LA/R0QHN3D0CNAISYN3RQ4WJ9
+[2026.11.12-17.13.06:140][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/LA/R0QHN3D0CNAISYN3RQ4WJ9
+[2026.11.12-17.13.06:140][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/R0QHN3D0CNAISYN3RQ4WJ9EDB35D1A44FE1FFC06D833B8293803A9.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/LA/R0QHN3D0CNAISYN3RQ4WJ9.uasset'
+[2026.11.12-17.13.06:141][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/BB/91DCWDC6MR1OWWOPWCCJDP
+[2026.11.12-17.13.06:147][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/BB/91DCWDC6MR1OWWOPWCCJDP
+[2026.11.12-17.13.06:147][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/91DCWDC6MR1OWWOPWCCJDPC8ECF442476E478088E89EB2654FA612.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/BB/91DCWDC6MR1OWWOPWCCJDP.uasset'
+[2026.11.12-17.13.06:148][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/1/SL/L5SYEMRM9M94CNVGTG678H
+[2026.11.12-17.13.06:154][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/SL/L5SYEMRM9M94CNVGTG678H
+[2026.11.12-17.13.06:154][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/L5SYEMRM9M94CNVGTG678H3FD9C20F4358E641C39BEA8BAE4F95C9.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/1/SL/L5SYEMRM9M94CNVGTG678H.uasset'
+[2026.11.12-17.13.06:156][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/25/O0VQ3D7GTE9WK84MS8QREI
+[2026.11.12-17.13.06:162][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/25/O0VQ3D7GTE9WK84MS8QREI
+[2026.11.12-17.13.06:162][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/O0VQ3D7GTE9WK84MS8QREI75D6CD5F464B0715B92538AB8367845F.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/25/O0VQ3D7GTE9WK84MS8QREI.uasset'
+[2026.11.12-17.13.06:164][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/A/Y7/G57E5WEI0NVMNYOCC17RPL
+[2026.11.12-17.13.06:170][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/Y7/G57E5WEI0NVMNYOCC17RPL
+[2026.11.12-17.13.06:170][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/G57E5WEI0NVMNYOCC17RPL6152B9F3473D15B9A5642FB825E637FB.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/A/Y7/G57E5WEI0NVMNYOCC17RPL.uasset'
+[2026.11.12-17.13.06:172][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/LZ/ZAJ11DFSTHYJGB7XPMSAQX
+[2026.11.12-17.13.06:179][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/LZ/ZAJ11DFSTHYJGB7XPMSAQX
+[2026.11.12-17.13.06:179][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/ZAJ11DFSTHYJGB7XPMSAQX4AB1A9F54ECACC38D77324BC9F4B5552.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/LZ/ZAJ11DFSTHYJGB7XPMSAQX.uasset'
+[2026.11.12-17.13.06:181][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/AB/CPQ3BPFJ1VY301R9XXU9ZQ
+[2026.11.12-17.13.06:187][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/AB/CPQ3BPFJ1VY301R9XXU9ZQ
+[2026.11.12-17.13.06:187][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/CPQ3BPFJ1VY301R9XXU9ZQ0614472447810E63A1751BAEC1E50196.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/AB/CPQ3BPFJ1VY301R9XXU9ZQ.uasset'
+[2026.11.12-17.13.06:188][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/35/5JOYHHBRUI9J9E6BEOLQAZ
+[2026.11.12-17.13.06:195][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/35/5JOYHHBRUI9J9E6BEOLQAZ
+[2026.11.12-17.13.06:195][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/5JOYHHBRUI9J9E6BEOLQAZFD2C51CF4B821FA690A450BC07FFD2AC.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/35/5JOYHHBRUI9J9E6BEOLQAZ.uasset'
+[2026.11.12-17.13.06:196][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/0I/AECTD3ZTZ334BNMYKK9NPU
+[2026.11.12-17.13.06:203][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/0I/AECTD3ZTZ334BNMYKK9NPU
+[2026.11.12-17.13.06:203][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/AECTD3ZTZ334BNMYKK9NPU16E8670E4FD36317ECA2DF8CF18260D6.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/0I/AECTD3ZTZ334BNMYKK9NPU.uasset'
+[2026.11.12-17.13.06:204][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/DS/9EMYCH3CA4B8OHM7O14QTT
+[2026.11.12-17.13.06:213][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/DS/9EMYCH3CA4B8OHM7O14QTT
+[2026.11.12-17.13.06:213][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/9EMYCH3CA4B8OHM7O14QTT30B29CC54663362CFF1FD387442B911A.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/DS/9EMYCH3CA4B8OHM7O14QTT.uasset'
+[2026.11.12-17.13.06:213][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/1/2W/G4YND4JPB4CSCINLWZ4Z4X
+[2026.11.12-17.13.06:220][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/2W/G4YND4JPB4CSCINLWZ4Z4X
+[2026.11.12-17.13.06:220][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/G4YND4JPB4CSCINLWZ4Z4X37CDF4864EFFCCEB0A57EAB0890854A1.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/1/2W/G4YND4JPB4CSCINLWZ4Z4X.uasset'
+[2026.11.12-17.13.06:221][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/0C/T4XETCCPGY8YVFGVS0B1V8
+[2026.11.12-17.13.06:230][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/0C/T4XETCCPGY8YVFGVS0B1V8
+[2026.11.12-17.13.06:230][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/T4XETCCPGY8YVFGVS0B1V85412BE994841EB9AA9149988D61FDEFA.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/0C/T4XETCCPGY8YVFGVS0B1V8.uasset'
+[2026.11.12-17.13.06:231][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/1J/2ROSNJ5KYIPVA1Y436LSRH
+[2026.11.12-17.13.06:238][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/1J/2ROSNJ5KYIPVA1Y436LSRH
+[2026.11.12-17.13.06:238][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/2ROSNJ5KYIPVA1Y436LSRHCD6A52D046DDA6DE2C459E9D0D43E14B.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/1J/2ROSNJ5KYIPVA1Y436LSRH.uasset'
+[2026.11.12-17.13.06:239][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/WL/YGV7Z77DLANO23AR0NMXYK
+[2026.11.12-17.13.06:247][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/WL/YGV7Z77DLANO23AR0NMXYK
+[2026.11.12-17.13.06:247][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/YGV7Z77DLANO23AR0NMXYK0EA6F70A4016484F2C9D51B4439285A8.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/WL/YGV7Z77DLANO23AR0NMXYK.uasset'
+[2026.11.12-17.13.06:248][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/EX/18VNXDHTOJAVTWQJ1LCWG5
+[2026.11.12-17.13.06:256][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/EX/18VNXDHTOJAVTWQJ1LCWG5
+[2026.11.12-17.13.06:256][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/18VNXDHTOJAVTWQJ1LCWG5E4E3FE4D453DFF2A3F5D8AA9EB433C8A.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/EX/18VNXDHTOJAVTWQJ1LCWG5.uasset'
+[2026.11.12-17.13.06:257][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/U6/AW57XH7HHYAX8WGIZ4AWMI
+[2026.11.12-17.13.06:264][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/U6/AW57XH7HHYAX8WGIZ4AWMI
+[2026.11.12-17.13.06:264][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/AW57XH7HHYAX8WGIZ4AWMI381E2AE64FC2C6AAC02B2A85DF60C860.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/U6/AW57XH7HHYAX8WGIZ4AWMI.uasset'
+[2026.11.12-17.13.06:265][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/OT/LY49Y37FEX5DEVQCVKTEBR
+[2026.11.12-17.13.06:271][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/OT/LY49Y37FEX5DEVQCVKTEBR
+[2026.11.12-17.13.06:271][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/LY49Y37FEX5DEVQCVKTEBRF7750AC748234C9F7C6B3E9D2716DBD1.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/OT/LY49Y37FEX5DEVQCVKTEBR.uasset'
+[2026.11.12-17.13.06:272][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/B/6B/UJ65LKMPL5UWDBY4EUZT7I
+[2026.11.12-17.13.06:279][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/6B/UJ65LKMPL5UWDBY4EUZT7I
+[2026.11.12-17.13.06:279][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/UJ65LKMPL5UWDBY4EUZT7IFA1B3BAD40D4F5E9740F829B11CB7873.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/B/6B/UJ65LKMPL5UWDBY4EUZT7I.uasset'
+[2026.11.12-17.13.06:280][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/B/OE/IH68NKM6KW9ER3H2C384AX
+[2026.11.12-17.13.06:286][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/OE/IH68NKM6KW9ER3H2C384AX
+[2026.11.12-17.13.06:286][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/IH68NKM6KW9ER3H2C384AX6AB1EA4E4F45659A0F81D98204C3E743.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/B/OE/IH68NKM6KW9ER3H2C384AX.uasset'
+[2026.11.12-17.13.06:288][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/LB/O7S0B5U2H5SCLJGBIBPAZJ
+[2026.11.12-17.13.06:295][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/LB/O7S0B5U2H5SCLJGBIBPAZJ
+[2026.11.12-17.13.06:295][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/O7S0B5U2H5SCLJGBIBPAZJ084170BB4CABE0CCC04983A642BD7DEE.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/LB/O7S0B5U2H5SCLJGBIBPAZJ.uasset'
+[2026.11.12-17.13.06:296][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/1/CZ/UGCHVNDIU4TWQVH6RKK3ZC
+[2026.11.12-17.13.06:303][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/CZ/UGCHVNDIU4TWQVH6RKK3ZC
+[2026.11.12-17.13.06:303][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/UGCHVNDIU4TWQVH6RKK3ZC0C9E215243310D5D23A4898207031206.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/1/CZ/UGCHVNDIU4TWQVH6RKK3ZC.uasset'
+[2026.11.12-17.13.06:304][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/N9/1S3CWAQ6LEQT5X7CGOTEST
+[2026.11.12-17.13.06:311][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/N9/1S3CWAQ6LEQT5X7CGOTEST
+[2026.11.12-17.13.06:311][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/1S3CWAQ6LEQT5X7CGOTESTB8C86C604E6DA21509876ABEF7D2F468.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/N9/1S3CWAQ6LEQT5X7CGOTEST.uasset'
+[2026.11.12-17.13.06:312][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/UU/08Q1GJ89UPELN3VVXFD47K
+[2026.11.12-17.13.06:318][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/UU/08Q1GJ89UPELN3VVXFD47K
+[2026.11.12-17.13.06:318][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/08Q1GJ89UPELN3VVXFD47K882A0B7B4A733A6B4F4D2B914D0DE836.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/UU/08Q1GJ89UPELN3VVXFD47K.uasset'
+[2026.11.12-17.13.06:319][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/2H/E45NO49QJ3JOHT2X5YANNQ
+[2026.11.12-17.13.06:326][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/2H/E45NO49QJ3JOHT2X5YANNQ
+[2026.11.12-17.13.06:326][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/E45NO49QJ3JOHT2X5YANNQ3F1AD0E74719665EE8588C810B657215.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/2H/E45NO49QJ3JOHT2X5YANNQ.uasset'
+[2026.11.12-17.13.06:327][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/73/SL5NNVE1MK5ITCCT43MBE3
+[2026.11.12-17.13.06:334][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/73/SL5NNVE1MK5ITCCT43MBE3
+[2026.11.12-17.13.06:334][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/SL5NNVE1MK5ITCCT43MBE3895BA01845C5847C828C458FF7C1E033.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/73/SL5NNVE1MK5ITCCT43MBE3.uasset'
+[2026.11.12-17.13.06:335][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/H6/FQNH6MB6UIN12EF4XYU94S
+[2026.11.12-17.13.06:340][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/H6/FQNH6MB6UIN12EF4XYU94S
+[2026.11.12-17.13.06:340][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/FQNH6MB6UIN12EF4XYU94SAD5B33E6448F21F14DB288BC43DEB10A.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/H6/FQNH6MB6UIN12EF4XYU94S.uasset'
+[2026.11.12-17.13.06:342][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/TO/7SGYYDEQHXJO5PO4Q05PAM
+[2026.11.12-17.13.06:348][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/TO/7SGYYDEQHXJO5PO4Q05PAM
+[2026.11.12-17.13.06:348][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/7SGYYDEQHXJO5PO4Q05PAM9F3981344B2EE62FB75F2D8AF4DCBA48.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/TO/7SGYYDEQHXJO5PO4Q05PAM.uasset'
+[2026.11.12-17.13.06:350][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/OG/MKADWI2G59OEQM3I2HLKT8
+[2026.11.12-17.13.06:356][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/OG/MKADWI2G59OEQM3I2HLKT8
+[2026.11.12-17.13.06:356][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/MKADWI2G59OEQM3I2HLKT897E4C2C94C30B22C4ABE898F5F8056C8.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/OG/MKADWI2G59OEQM3I2HLKT8.uasset'
+[2026.11.12-17.13.06:357][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/1O/ZMAVEXBKTCC7MAS4QFOVOA
+[2026.11.12-17.13.06:364][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/1O/ZMAVEXBKTCC7MAS4QFOVOA
+[2026.11.12-17.13.06:364][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/ZMAVEXBKTCC7MAS4QFOVOAD084F5304E99BEB5CFBCDB94C5E33978.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/1O/ZMAVEXBKTCC7MAS4QFOVOA.uasset'
+[2026.11.12-17.13.06:365][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/CD/R1YN4C5ONSRTC0568IP5X8
+[2026.11.12-17.13.06:372][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/CD/R1YN4C5ONSRTC0568IP5X8
+[2026.11.12-17.13.06:372][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/R1YN4C5ONSRTC0568IP5X8B1BBB8DC4EEDBE1003E118ABF692B50B.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/CD/R1YN4C5ONSRTC0568IP5X8.uasset'
+[2026.11.12-17.13.06:373][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/1/XS/0SF712074ERF9VFZEZW0CI
+[2026.11.12-17.13.06:379][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/XS/0SF712074ERF9VFZEZW0CI
+[2026.11.12-17.13.06:379][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/0SF712074ERF9VFZEZW0CI4592E7754AA3898E93440FAAE7F11BBE.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/1/XS/0SF712074ERF9VFZEZW0CI.uasset'
+[2026.11.12-17.13.06:381][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/A/Y8/FQT5MOZ0BCEUG3VIZZ0LR9
+[2026.11.12-17.13.06:390][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/Y8/FQT5MOZ0BCEUG3VIZZ0LR9
+[2026.11.12-17.13.06:390][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/FQT5MOZ0BCEUG3VIZZ0LR921B4D76440565B75E62D00B8FF89B276.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/A/Y8/FQT5MOZ0BCEUG3VIZZ0LR9.uasset'
+[2026.11.12-17.13.06:391][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/B/WV/S3CM3LIM5W5E67G14K5PCO
+[2026.11.12-17.13.06:398][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/WV/S3CM3LIM5W5E67G14K5PCO
+[2026.11.12-17.13.06:398][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/S3CM3LIM5W5E67G14K5PCO72320E4044413F6F0174DB95CDD984DC.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/B/WV/S3CM3LIM5W5E67G14K5PCO.uasset'
+[2026.11.12-17.13.06:399][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/MA/GGHK9BSYFEB31GNJJG54U0
+[2026.11.12-17.13.06:407][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/MA/GGHK9BSYFEB31GNJJG54U0
+[2026.11.12-17.13.06:407][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/GGHK9BSYFEB31GNJJG54U03AAE5AA7427C8D024A8D1C9F1477C46F.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/MA/GGHK9BSYFEB31GNJJG54U0.uasset'
+[2026.11.12-17.13.06:408][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/YN/30OUQJ3JF3L959Y7VCUP5P
+[2026.11.12-17.13.06:415][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/YN/30OUQJ3JF3L959Y7VCUP5P
+[2026.11.12-17.13.06:415][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/30OUQJ3JF3L959Y7VCUP5P05B7BDC04014CB5243E8268DC2A31144.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/YN/30OUQJ3JF3L959Y7VCUP5P.uasset'
+[2026.11.12-17.13.06:416][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/FI/125HCX4W1FU82N6KTBO5U9
+[2026.11.12-17.13.06:423][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/FI/125HCX4W1FU82N6KTBO5U9
+[2026.11.12-17.13.06:424][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/125HCX4W1FU82N6KTBO5U91F9C46E84FF3A2461C3E5BA368E8DA95.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/FI/125HCX4W1FU82N6KTBO5U9.uasset'
+[2026.11.12-17.13.06:425][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/ZV/2CDB2N3NNXTCYA1F57QVBF
+[2026.11.12-17.13.06:431][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/ZV/2CDB2N3NNXTCYA1F57QVBF
+[2026.11.12-17.13.06:431][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/2CDB2N3NNXTCYA1F57QVBF05F9E24B4307E5742C62D4BFAC8259C7.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/ZV/2CDB2N3NNXTCYA1F57QVBF.uasset'
+[2026.11.12-17.13.06:432][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/1/HS/NQTZWVP368E96Y7ITSIXT9
+[2026.11.12-17.13.06:439][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/HS/NQTZWVP368E96Y7ITSIXT9
+[2026.11.12-17.13.06:439][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/NQTZWVP368E96Y7ITSIXT9ECD9995B446169AB2A86768772EE7079.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/1/HS/NQTZWVP368E96Y7ITSIXT9.uasset'
+[2026.11.12-17.13.06:440][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/YX/X97520AKCZ1LP8F79XQ1EB
+[2026.11.12-17.13.06:449][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/YX/X97520AKCZ1LP8F79XQ1EB
+[2026.11.12-17.13.06:449][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/X97520AKCZ1LP8F79XQ1EB45C5901D453E891F117CCDAF5184E7F0.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/YX/X97520AKCZ1LP8F79XQ1EB.uasset'
+[2026.11.12-17.13.06:450][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/R1/KDXZQ1VHH5EBRWOKR54S9Z
+[2026.11.12-17.13.06:457][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/R1/KDXZQ1VHH5EBRWOKR54S9Z
+[2026.11.12-17.13.06:457][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/KDXZQ1VHH5EBRWOKR54S9Z5DDCE0CB4917F6052A64AAA6F3687821.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/R1/KDXZQ1VHH5EBRWOKR54S9Z.uasset'
+[2026.11.12-17.13.06:458][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/18/0C8OH2AKZAZZCL2SJYZ5FO
+[2026.11.12-17.13.06:464][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/18/0C8OH2AKZAZZCL2SJYZ5FO
+[2026.11.12-17.13.06:464][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/0C8OH2AKZAZZCL2SJYZ5FO1A273F2447BB8156D8E80EADC99E1CD0.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/18/0C8OH2AKZAZZCL2SJYZ5FO.uasset'
+[2026.11.12-17.13.06:466][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/93/FQBOMUCSLT57ALWFPNRCXX
+[2026.11.12-17.13.06:473][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/93/FQBOMUCSLT57ALWFPNRCXX
+[2026.11.12-17.13.06:473][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/FQBOMUCSLT57ALWFPNRCXX19DA9A624A7CDD70BBC7BA9D58CA423A.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/93/FQBOMUCSLT57ALWFPNRCXX.uasset'
+[2026.11.12-17.13.06:474][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/6I/N0EJBV04C2TVPCK11QF9XF
+[2026.11.12-17.13.06:483][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/6I/N0EJBV04C2TVPCK11QF9XF
+[2026.11.12-17.13.06:483][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/N0EJBV04C2TVPCK11QF9XFDC11746E4CE907DC81D1F79686C7F770.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/6I/N0EJBV04C2TVPCK11QF9XF.uasset'
+[2026.11.12-17.13.06:484][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/9L/JS7NA4X5KMT3Q7P237AE6R
+[2026.11.12-17.13.06:491][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/9L/JS7NA4X5KMT3Q7P237AE6R
+[2026.11.12-17.13.06:491][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/JS7NA4X5KMT3Q7P237AE6RB5C2961D4AE52D09D2E9579229DEF6D6.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/9L/JS7NA4X5KMT3Q7P237AE6R.uasset'
+[2026.11.12-17.13.06:492][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/0B/6E8T62LG5RY9EW7DWJYO1S
+[2026.11.12-17.13.06:499][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/0B/6E8T62LG5RY9EW7DWJYO1S
+[2026.11.12-17.13.06:499][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/6E8T62LG5RY9EW7DWJYO1S5A8DDE0646C94A9CD458F5A8AE4970D8.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/0B/6E8T62LG5RY9EW7DWJYO1S.uasset'
+[2026.11.12-17.13.06:500][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/LB/YRJZQOGCAVYP6R4VE5BZRF
+[2026.11.12-17.13.06:506][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/LB/YRJZQOGCAVYP6R4VE5BZRF
+[2026.11.12-17.13.06:506][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/YRJZQOGCAVYP6R4VE5BZRFDE12A4DB4C5BC9740EB2A0A53DFB1802.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/LB/YRJZQOGCAVYP6R4VE5BZRF.uasset'
+[2026.11.12-17.13.06:507][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/BJ/2CKEGKXG63XLP9BFPNCL86
+[2026.11.12-17.13.06:514][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/BJ/2CKEGKXG63XLP9BFPNCL86
+[2026.11.12-17.13.06:514][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/2CKEGKXG63XLP9BFPNCL862F71F32E49078D6709BC65A01382C158.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/BJ/2CKEGKXG63XLP9BFPNCL86.uasset'
+[2026.11.12-17.13.06:515][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/N5/E952OHONJWJ7BLGCN8LG0D
+[2026.11.12-17.13.06:521][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/N5/E952OHONJWJ7BLGCN8LG0D
+[2026.11.12-17.13.06:521][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/E952OHONJWJ7BLGCN8LG0D88DF1780403904B7C4E44EB8DA58CDD0.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/N5/E952OHONJWJ7BLGCN8LG0D.uasset'
+[2026.11.12-17.13.06:523][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/GE/VMDJ09O09PRK3F62GP87BE
+[2026.11.12-17.13.06:532][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/GE/VMDJ09O09PRK3F62GP87BE
+[2026.11.12-17.13.06:532][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/VMDJ09O09PRK3F62GP87BE8AEAF55A4B8806AD63EC1FA6A90F63CE.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/GE/VMDJ09O09PRK3F62GP87BE.uasset'
+[2026.11.12-17.13.06:533][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/TF/I4JRV3HNJAZQRX2GXFPN0C
+[2026.11.12-17.13.06:540][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/TF/I4JRV3HNJAZQRX2GXFPN0C
+[2026.11.12-17.13.06:540][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/I4JRV3HNJAZQRX2GXFPN0C53A0774E4C540DF425B6CFB6632371E5.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/TF/I4JRV3HNJAZQRX2GXFPN0C.uasset'
+[2026.11.12-17.13.06:541][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/8K/BMGJWPV0NAPSQVA43LJ37F
+[2026.11.12-17.13.06:547][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/8K/BMGJWPV0NAPSQVA43LJ37F
+[2026.11.12-17.13.06:547][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/BMGJWPV0NAPSQVA43LJ37FFACB2EB14E0CFAB71AAC5E85ADBA0D37.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/8K/BMGJWPV0NAPSQVA43LJ37F.uasset'
+[2026.11.12-17.13.06:548][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/OJ/2HDXHPKVCQZ5MCR9Y7EXZS
+[2026.11.12-17.13.06:555][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/OJ/2HDXHPKVCQZ5MCR9Y7EXZS
+[2026.11.12-17.13.06:555][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/2HDXHPKVCQZ5MCR9Y7EXZSE2207B6A481C890BDC4AE28254BCA7B6.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/OJ/2HDXHPKVCQZ5MCR9Y7EXZS.uasset'
+[2026.11.12-17.13.06:556][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/MN/P36NNB6P91CEBI5EVC3XFI
+[2026.11.12-17.13.06:565][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/MN/P36NNB6P91CEBI5EVC3XFI
+[2026.11.12-17.13.06:565][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/P36NNB6P91CEBI5EVC3XFI0ACFDB3746E6FFFE4A1700940AA1DAF8.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/MN/P36NNB6P91CEBI5EVC3XFI.uasset'
+[2026.11.12-17.13.06:566][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/B/EL/J8HSQAYW43B4TIOEX46WNS
+[2026.11.12-17.13.06:572][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/EL/J8HSQAYW43B4TIOEX46WNS
+[2026.11.12-17.13.06:572][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/J8HSQAYW43B4TIOEX46WNS813483C9424B770554DCD8B7F6E1A3B1.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/B/EL/J8HSQAYW43B4TIOEX46WNS.uasset'
+[2026.11.12-17.13.06:573][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/F8/BGE3HHAWAR8T512XJPBDRW
+[2026.11.12-17.13.06:579][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/F8/BGE3HHAWAR8T512XJPBDRW
+[2026.11.12-17.13.06:579][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/BGE3HHAWAR8T512XJPBDRWA08E3E3743DE24B54FA3F49536F6F970.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/F8/BGE3HHAWAR8T512XJPBDRW.uasset'
+[2026.11.12-17.13.06:581][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/A/5R/DYG4B3URWOKGI3YMF47U3X
+[2026.11.12-17.13.06:590][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/5R/DYG4B3URWOKGI3YMF47U3X
+[2026.11.12-17.13.06:590][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/DYG4B3URWOKGI3YMF47U3X175B23D74984669D7F1577B718676B43.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/A/5R/DYG4B3URWOKGI3YMF47U3X.uasset'
+[2026.11.12-17.13.06:591][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/LF/6NO0XY3WCMV4JL657MI8I3
+[2026.11.12-17.13.06:600][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/LF/6NO0XY3WCMV4JL657MI8I3
+[2026.11.12-17.13.06:600][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/6NO0XY3WCMV4JL657MI8I32E6C419B4016A5787C81F9956724D1FC.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/LF/6NO0XY3WCMV4JL657MI8I3.uasset'
+[2026.11.12-17.13.06:601][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/HY/NLIF6WSOPBCX6MB2WDD5EY
+[2026.11.12-17.13.06:608][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/HY/NLIF6WSOPBCX6MB2WDD5EY
+[2026.11.12-17.13.06:608][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/NLIF6WSOPBCX6MB2WDD5EYAEB08D79402EF1F93757F59AF314AED1.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/HY/NLIF6WSOPBCX6MB2WDD5EY.uasset'
+[2026.11.12-17.13.06:608][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/A/QR/UZJPKQXDABWXMGRAWA78A9
+[2026.11.12-17.13.06:616][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/QR/UZJPKQXDABWXMGRAWA78A9
+[2026.11.12-17.13.06:616][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/UZJPKQXDABWXMGRAWA78A94C0885CD47410917C8C60B97732464BA.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/A/QR/UZJPKQXDABWXMGRAWA78A9.uasset'
+[2026.11.12-17.13.06:617][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/DI/SVHRUIES3V7KH3JB0MJ4JE
+[2026.11.12-17.13.06:624][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/DI/SVHRUIES3V7KH3JB0MJ4JE
+[2026.11.12-17.13.06:624][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/SVHRUIES3V7KH3JB0MJ4JEE0FD82304850F67776090492109C1D12.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/DI/SVHRUIES3V7KH3JB0MJ4JE.uasset'
+[2026.11.12-17.13.06:625][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/VS/RX9M39S58WUQPNCSME77BZ
+[2026.11.12-17.13.06:632][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/VS/RX9M39S58WUQPNCSME77BZ
+[2026.11.12-17.13.06:632][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/RX9M39S58WUQPNCSME77BZ637812E64FED3A0C2A3C3D87F3A63997.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/VS/RX9M39S58WUQPNCSME77BZ.uasset'
+[2026.11.12-17.13.06:633][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/3S/6KAZDZ5H72NVB2AX9STCIU
+[2026.11.12-17.13.06:640][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/3S/6KAZDZ5H72NVB2AX9STCIU
+[2026.11.12-17.13.06:640][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/6KAZDZ5H72NVB2AX9STCIU8F15FA17455494F0316ADD9BF46E768A.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/3S/6KAZDZ5H72NVB2AX9STCIU.uasset'
+[2026.11.12-17.13.06:641][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/1/ZA/YK014JQJOH00LPI8UZ6192
+[2026.11.12-17.13.06:650][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/ZA/YK014JQJOH00LPI8UZ6192
+[2026.11.12-17.13.06:650][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/YK014JQJOH00LPI8UZ6192CC1EAE354B89C9DAD5B741B97C2F3D6B.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/1/ZA/YK014JQJOH00LPI8UZ6192.uasset'
+[2026.11.12-17.13.06:651][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/NX/0RN7O54IRWG1ESMPQZONE3
+[2026.11.12-17.13.06:658][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/NX/0RN7O54IRWG1ESMPQZONE3
+[2026.11.12-17.13.06:658][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/0RN7O54IRWG1ESMPQZONE39758F3DA40CCAB5BEA246DB1590CF803.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/NX/0RN7O54IRWG1ESMPQZONE3.uasset'
+[2026.11.12-17.13.06:659][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/6E/M0N9IWPMN0QQSIQLGOL4RD
+[2026.11.12-17.13.06:667][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/6E/M0N9IWPMN0QQSIQLGOL4RD
+[2026.11.12-17.13.06:667][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/M0N9IWPMN0QQSIQLGOL4RDC3942CA9410F82BD2543EC98FD5F3058.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/6E/M0N9IWPMN0QQSIQLGOL4RD.uasset'
+[2026.11.12-17.13.06:668][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/O2/6NW54HB495MWN2V2WPJF9G
+[2026.11.12-17.13.06:674][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/O2/6NW54HB495MWN2V2WPJF9G
+[2026.11.12-17.13.06:674][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/6NW54HB495MWN2V2WPJF9GDDE6B1D44A79CD3E11FCA8A82038138D.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/O2/6NW54HB495MWN2V2WPJF9G.uasset'
+[2026.11.12-17.13.06:675][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/XM/R9L3NIYGE7PDHLO8A55Q5V
+[2026.11.12-17.13.06:682][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/XM/R9L3NIYGE7PDHLO8A55Q5V
+[2026.11.12-17.13.06:682][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/R9L3NIYGE7PDHLO8A55Q5VBAD09B94499F1933F59F478214DD90F7.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/XM/R9L3NIYGE7PDHLO8A55Q5V.uasset'
+[2026.11.12-17.13.06:683][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/RC/PMB4A2QZY8JTZSQEUIJ80E
+[2026.11.12-17.13.06:689][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/RC/PMB4A2QZY8JTZSQEUIJ80E
+[2026.11.12-17.13.06:689][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/PMB4A2QZY8JTZSQEUIJ80E38FEC72B4F9F725DB15D808AAD9AC36A.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/RC/PMB4A2QZY8JTZSQEUIJ80E.uasset'
+[2026.11.12-17.13.06:690][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/JK/4BYSKCS494JUPIRA2C8WYZ
+[2026.11.12-17.13.06:697][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/JK/4BYSKCS494JUPIRA2C8WYZ
+[2026.11.12-17.13.06:697][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/4BYSKCS494JUPIRA2C8WYZD6FAC70546DC146C85CDB9843A116CA7.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/JK/4BYSKCS494JUPIRA2C8WYZ.uasset'
+[2026.11.12-17.13.06:698][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/ME/H60SZWTNPI2BPZ23J6F4U7
+[2026.11.12-17.13.06:705][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/ME/H60SZWTNPI2BPZ23J6F4U7
+[2026.11.12-17.13.06:705][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/H60SZWTNPI2BPZ23J6F4U78E2121774CD0CB25183EB69F9F130BD1.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/ME/H60SZWTNPI2BPZ23J6F4U7.uasset'
+[2026.11.12-17.13.06:706][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/QQ/D2VAOESMXG3EBJ70VN6DQJ
+[2026.11.12-17.13.06:713][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/QQ/D2VAOESMXG3EBJ70VN6DQJ
+[2026.11.12-17.13.06:713][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/D2VAOESMXG3EBJ70VN6DQJ55EF804747E62628F5D897A937307CBB.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/QQ/D2VAOESMXG3EBJ70VN6DQJ.uasset'
+[2026.11.12-17.13.06:715][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/4I/4BZIT9IKGR5W35PGL0IPX4
+[2026.11.12-17.13.06:721][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/4I/4BZIT9IKGR5W35PGL0IPX4
+[2026.11.12-17.13.06:721][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/4BZIT9IKGR5W35PGL0IPX4F8D7FE994EA6B4405818BA8F3BBB8DB7.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/4I/4BZIT9IKGR5W35PGL0IPX4.uasset'
+[2026.11.12-17.13.06:722][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/UZ/WFR75D8CZJP6R4CF6W9J79
+[2026.11.12-17.13.06:731][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/UZ/WFR75D8CZJP6R4CF6W9J79
+[2026.11.12-17.13.06:731][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/WFR75D8CZJP6R4CF6W9J79F1768332441675AF754F22903A28CC9E.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/UZ/WFR75D8CZJP6R4CF6W9J79.uasset'
+[2026.11.12-17.13.06:733][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/B/ZA/TOFDFDD5WITVT9FZW3FSC4
+[2026.11.12-17.13.06:740][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/ZA/TOFDFDD5WITVT9FZW3FSC4
+[2026.11.12-17.13.06:740][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/TOFDFDD5WITVT9FZW3FSC41501F15246AD90845E162CBE9A457E6C.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/B/ZA/TOFDFDD5WITVT9FZW3FSC4.uasset'
+[2026.11.12-17.13.06:741][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/3/ND/WEKXLG42POJHN3HY00QFT1
+[2026.11.12-17.13.06:747][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/ND/WEKXLG42POJHN3HY00QFT1
+[2026.11.12-17.13.06:747][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/WEKXLG42POJHN3HY00QFT164B365F543B9447A06DC0A8B474BB722.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/3/ND/WEKXLG42POJHN3HY00QFT1.uasset'
+[2026.11.12-17.13.06:748][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/9S/ZF04T0U8FTJA1XXSQ96MC9
+[2026.11.12-17.13.06:754][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/9S/ZF04T0U8FTJA1XXSQ96MC9
+[2026.11.12-17.13.06:754][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/ZF04T0U8FTJA1XXSQ96MC9E1783E6E47FAD89D4E48509658F0D3EF.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/9S/ZF04T0U8FTJA1XXSQ96MC9.uasset'
+[2026.11.12-17.13.06:756][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/RX/QQXS5IFBK75G8SYNUJTD6X
+[2026.11.12-17.13.06:761][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/RX/QQXS5IFBK75G8SYNUJTD6X
+[2026.11.12-17.13.06:761][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/QQXS5IFBK75G8SYNUJTD6X10DDDD5F45254C4A545FA5B1E3320FB7.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/RX/QQXS5IFBK75G8SYNUJTD6X.uasset'
+[2026.11.12-17.13.06:762][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/5W/QQJCA3YIS9V32FKU3VW0ME
+[2026.11.12-17.13.06:769][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/5W/QQJCA3YIS9V32FKU3VW0ME
+[2026.11.12-17.13.06:769][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/QQJCA3YIS9V32FKU3VW0ME6E41E89E44059204D4E718A613A9ADE8.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/5W/QQJCA3YIS9V32FKU3VW0ME.uasset'
+[2026.11.12-17.13.06:770][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/B/VM/LUIYAI33Z3HC5RBT3R6MZC
+[2026.11.12-17.13.06:776][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/VM/LUIYAI33Z3HC5RBT3R6MZC
+[2026.11.12-17.13.06:776][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/LUIYAI33Z3HC5RBT3R6MZCB21F342E4586DC01052DEA8D65F4C142.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/B/VM/LUIYAI33Z3HC5RBT3R6MZC.uasset'
+[2026.11.12-17.13.06:779][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/4L/SV7CRIJLZQHJ0N0V9C2VKV
+[2026.11.12-17.13.06:787][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/4L/SV7CRIJLZQHJ0N0V9C2VKV
+[2026.11.12-17.13.06:787][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/SV7CRIJLZQHJ0N0V9C2VKV95427447416EBA5F24A765A17954803E.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/4L/SV7CRIJLZQHJ0N0V9C2VKV.uasset'
+[2026.11.12-17.13.06:788][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/B/OM/3R2SKC4ZDNUWK5HTDZLXLY
+[2026.11.12-17.13.06:795][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/OM/3R2SKC4ZDNUWK5HTDZLXLY
+[2026.11.12-17.13.06:795][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/3R2SKC4ZDNUWK5HTDZLXLY4CB6371E47E6C105EDAC18A78DA7B764.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/B/OM/3R2SKC4ZDNUWK5HTDZLXLY.uasset'
+[2026.11.12-17.13.06:796][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/L7/WW7PP3TNB08YOM6VOT0N0J
+[2026.11.12-17.13.06:802][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/L7/WW7PP3TNB08YOM6VOT0N0J
+[2026.11.12-17.13.06:802][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/WW7PP3TNB08YOM6VOT0N0J4C77B34C44D641C811D362AC7A519AB0.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/L7/WW7PP3TNB08YOM6VOT0N0J.uasset'
+[2026.11.12-17.13.06:803][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/EJ/JF06BZSK9K9TJ30ID319NB
+[2026.11.12-17.13.06:810][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/EJ/JF06BZSK9K9TJ30ID319NB
+[2026.11.12-17.13.06:810][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/JF06BZSK9K9TJ30ID319NBEACC507846AC822D6A61898299AAFB58.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/EJ/JF06BZSK9K9TJ30ID319NB.uasset'
+[2026.11.12-17.13.06:811][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/8J/6KM5AVCFDHOQ0DMNGPHG6G
+[2026.11.12-17.13.06:817][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/8J/6KM5AVCFDHOQ0DMNGPHG6G
+[2026.11.12-17.13.06:817][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/6KM5AVCFDHOQ0DMNGPHG6G059EA1114AA7577B0DEF4DA706F8D889.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/8J/6KM5AVCFDHOQ0DMNGPHG6G.uasset'
+[2026.11.12-17.13.06:818][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/NQ/J8O1CTQ9BL2QZAHO994C0C
+[2026.11.12-17.13.06:824][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/NQ/J8O1CTQ9BL2QZAHO994C0C
+[2026.11.12-17.13.06:824][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/J8O1CTQ9BL2QZAHO994C0CF97D77A041C45BA61A8CAAB2B8B5991D.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/NQ/J8O1CTQ9BL2QZAHO994C0C.uasset'
+[2026.11.12-17.13.06:825][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/KX/1V12E97753NTMXKDADDPXE
+[2026.11.12-17.13.06:833][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/KX/1V12E97753NTMXKDADDPXE
+[2026.11.12-17.13.06:833][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/1V12E97753NTMXKDADDPXE906F0B874E5E5980B14998856517C377.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/KX/1V12E97753NTMXKDADDPXE.uasset'
+[2026.11.12-17.13.06:834][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/Y2/SC9DWY2TNKVC2E8PPI1TPB
+[2026.11.12-17.13.06:840][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/Y2/SC9DWY2TNKVC2E8PPI1TPB
+[2026.11.12-17.13.06:840][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/SC9DWY2TNKVC2E8PPI1TPB5F309F534D23453CBBF753AA1D6E0AE4.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/Y2/SC9DWY2TNKVC2E8PPI1TPB.uasset'
+[2026.11.12-17.13.06:841][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/LI/C4BK181X44NPVJG3BVVNV6
+[2026.11.12-17.13.06:848][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/LI/C4BK181X44NPVJG3BVVNV6
+[2026.11.12-17.13.06:848][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/C4BK181X44NPVJG3BVVNV63CA46E794B58C77413C77B9FBB145017.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/LI/C4BK181X44NPVJG3BVVNV6.uasset'
+[2026.11.12-17.13.06:850][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/4U/RH3SCVC0JPX6ZIT7TPJGG3
+[2026.11.12-17.13.06:856][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/4U/RH3SCVC0JPX6ZIT7TPJGG3
+[2026.11.12-17.13.06:856][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/RH3SCVC0JPX6ZIT7TPJGG315F094E44BABD2CA03154ABCAC076EAC.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/4U/RH3SCVC0JPX6ZIT7TPJGG3.uasset'
+[2026.11.12-17.13.06:857][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/G0/NMOE6V28WOMK0OKCTVMKJ1
+[2026.11.12-17.13.06:864][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/G0/NMOE6V28WOMK0OKCTVMKJ1
+[2026.11.12-17.13.06:864][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/NMOE6V28WOMK0OKCTVMKJ1070586294443CD1FEC0A358155827F48.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/G0/NMOE6V28WOMK0OKCTVMKJ1.uasset'
+[2026.11.12-17.13.06:865][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/64/NIOXU6OU9RY4FF1U2SCEXQ
+[2026.11.12-17.13.06:872][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/64/NIOXU6OU9RY4FF1U2SCEXQ
+[2026.11.12-17.13.06:872][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/NIOXU6OU9RY4FF1U2SCEXQC8EEC3ED4FE89222059D72AD9BFC0FB2.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/64/NIOXU6OU9RY4FF1U2SCEXQ.uasset'
+[2026.11.12-17.13.06:873][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/1/C5/5R1MVANUAI4P9LDSJOIO0R
+[2026.11.12-17.13.06:879][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/C5/5R1MVANUAI4P9LDSJOIO0R
+[2026.11.12-17.13.06:879][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/5R1MVANUAI4P9LDSJOIO0R5E11B50D487AC36383BEC1AA499CD667.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/1/C5/5R1MVANUAI4P9LDSJOIO0R.uasset'
+[2026.11.12-17.13.06:880][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/OU/LEBRJU65SZE0VKJWZCC6JA
+[2026.11.12-17.13.06:886][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/OU/LEBRJU65SZE0VKJWZCC6JA
+[2026.11.12-17.13.06:886][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/LEBRJU65SZE0VKJWZCC6JA0C3659444B1E773CE05BC59CAE5DC197.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/OU/LEBRJU65SZE0VKJWZCC6JA.uasset'
+[2026.11.12-17.13.06:888][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/VI/7X1BVWUP2D5V4HI68J18K1
+[2026.11.12-17.13.06:894][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/VI/7X1BVWUP2D5V4HI68J18K1
+[2026.11.12-17.13.06:894][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/7X1BVWUP2D5V4HI68J18K1B066090741C80D1696375AAC8A5B55F0.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/VI/7X1BVWUP2D5V4HI68J18K1.uasset'
+[2026.11.12-17.13.06:895][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/DU/T9M1F66Q4J1ONB77D1O8WS
+[2026.11.12-17.13.06:902][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/DU/T9M1F66Q4J1ONB77D1O8WS
+[2026.11.12-17.13.06:902][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/T9M1F66Q4J1ONB77D1O8WSECEB83FD4AE94B00D7C564B5E149C7BD.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/DU/T9M1F66Q4J1ONB77D1O8WS.uasset'
+[2026.11.12-17.13.06:903][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/BN/QZKJHSPUCWJAK0IL30XE3A
+[2026.11.12-17.13.06:909][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/BN/QZKJHSPUCWJAK0IL30XE3A
+[2026.11.12-17.13.06:909][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/QZKJHSPUCWJAK0IL30XE3ACC20D60F4022D44A2E5C708F565CADE0.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/BN/QZKJHSPUCWJAK0IL30XE3A.uasset'
+[2026.11.12-17.13.06:911][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/I8/HBPNY1E9X8C6OZJPG9L988
+[2026.11.12-17.13.06:918][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/I8/HBPNY1E9X8C6OZJPG9L988
+[2026.11.12-17.13.06:918][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/HBPNY1E9X8C6OZJPG9L988062871AE44332CE6320284AEA9ED71E6.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/I8/HBPNY1E9X8C6OZJPG9L988.uasset'
+[2026.11.12-17.13.06:918][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/67/PXBY859ZWSOZVTXVS6THJ9
+[2026.11.12-17.13.06:925][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/67/PXBY859ZWSOZVTXVS6THJ9
+[2026.11.12-17.13.06:925][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/PXBY859ZWSOZVTXVS6THJ9B0EBD49E47AFFA8C185BF386B3A8E20A.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/67/PXBY859ZWSOZVTXVS6THJ9.uasset'
+[2026.11.12-17.13.06:926][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/PD/7APEB48IPGMZ2DON22YNOE
+[2026.11.12-17.13.06:935][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/PD/7APEB48IPGMZ2DON22YNOE
+[2026.11.12-17.13.06:935][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/7APEB48IPGMZ2DON22YNOE539112054C5EDE4B614B9F874E09553F.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/PD/7APEB48IPGMZ2DON22YNOE.uasset'
+[2026.11.12-17.13.06:936][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/3T/13JVLCAGOZVLPPWPSJ64B5
+[2026.11.12-17.13.06:942][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/3T/13JVLCAGOZVLPPWPSJ64B5
+[2026.11.12-17.13.06:942][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/13JVLCAGOZVLPPWPSJ64B59C86D43941D1A87AFFF147BA4680071A.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/3T/13JVLCAGOZVLPPWPSJ64B5.uasset'
+[2026.11.12-17.13.06:943][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/K1/D5CAAYHL1FFZ4AKOGWVW3T
+[2026.11.12-17.13.06:950][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/K1/D5CAAYHL1FFZ4AKOGWVW3T
+[2026.11.12-17.13.06:950][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/D5CAAYHL1FFZ4AKOGWVW3T889176A645B68EB2A72974862EAC7E85.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/K1/D5CAAYHL1FFZ4AKOGWVW3T.uasset'
+[2026.11.12-17.13.06:951][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/QE/KG9SHIMCUKBW2N14F2G8ZI
+[2026.11.12-17.13.06:957][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/QE/KG9SHIMCUKBW2N14F2G8ZI
+[2026.11.12-17.13.06:957][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/KG9SHIMCUKBW2N14F2G8ZI531A142F420DE4F2FA255AA209A7E0FE.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/QE/KG9SHIMCUKBW2N14F2G8ZI.uasset'
+[2026.11.12-17.13.06:958][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/U2/UBUWFG1DA8FL0R3FJK7W0U
+[2026.11.12-17.13.06:965][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/U2/UBUWFG1DA8FL0R3FJK7W0U
+[2026.11.12-17.13.06:965][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/UBUWFG1DA8FL0R3FJK7W0U1FE9229540286324C197EA8C04817041.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/U2/UBUWFG1DA8FL0R3FJK7W0U.uasset'
+[2026.11.12-17.13.06:966][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/F/3H/ASFX3NWYQ4DWCSF6QF4PKA
+[2026.11.12-17.13.06:974][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/F/3H/ASFX3NWYQ4DWCSF6QF4PKA
+[2026.11.12-17.13.06:974][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/ASFX3NWYQ4DWCSF6QF4PKAD1A15B43463C2AD152CDF7A40DCE2A67.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/F/3H/ASFX3NWYQ4DWCSF6QF4PKA.uasset'
+[2026.11.12-17.13.06:976][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/E7/NLM2WUASPSX0CPSMZQE6G6
+[2026.11.12-17.13.06:982][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/E7/NLM2WUASPSX0CPSMZQE6G6
+[2026.11.12-17.13.06:982][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/NLM2WUASPSX0CPSMZQE6G65D2462254BCC9C3572179BB6DFCBA628.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/E7/NLM2WUASPSX0CPSMZQE6G6.uasset'
+[2026.11.12-17.13.06:984][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/CD/KKW2KNSQIWMGHXC2ZGTHQR
+[2026.11.12-17.13.06:992][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/CD/KKW2KNSQIWMGHXC2ZGTHQR
+[2026.11.12-17.13.06:992][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/KKW2KNSQIWMGHXC2ZGTHQR5608A4A64272C6C60A87568436E80464.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/CD/KKW2KNSQIWMGHXC2ZGTHQR.uasset'
+[2026.11.12-17.13.06:993][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/3I/AIGML5AOB9AZLEUTZYEC59
+[2026.11.12-17.13.06:999][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/3I/AIGML5AOB9AZLEUTZYEC59
+[2026.11.12-17.13.06:999][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/AIGML5AOB9AZLEUTZYEC59E13F56E84CC104D2465C63B0E1AEF749.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/3I/AIGML5AOB9AZLEUTZYEC59.uasset'
+[2026.11.12-17.13.07:001][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/0Y/RIBOW07SIZUGEYB50ZTXM1
+[2026.11.12-17.13.07:007][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/0Y/RIBOW07SIZUGEYB50ZTXM1
+[2026.11.12-17.13.07:007][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/RIBOW07SIZUGEYB50ZTXM1AA3553EF4B795184CB25AF8A03A04F73.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/0Y/RIBOW07SIZUGEYB50ZTXM1.uasset'
+[2026.11.12-17.13.07:008][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/NW/87ACAYKRXT5NPK2YNC4I8N
+[2026.11.12-17.13.07:015][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/NW/87ACAYKRXT5NPK2YNC4I8N
+[2026.11.12-17.13.07:015][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/87ACAYKRXT5NPK2YNC4I8N95AF33F64F5005905F030C83E1C775B6.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/NW/87ACAYKRXT5NPK2YNC4I8N.uasset'
+[2026.11.12-17.13.07:017][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/GR/V3J8CQK1QSBT4FGQM8A7Z7
+[2026.11.12-17.13.07:023][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/GR/V3J8CQK1QSBT4FGQM8A7Z7
+[2026.11.12-17.13.07:023][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/V3J8CQK1QSBT4FGQM8A7Z792DED3D845DC413168845F995DF0AEBB.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/GR/V3J8CQK1QSBT4FGQM8A7Z7.uasset'
+[2026.11.12-17.13.07:024][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/97/1BNJHMMQQX0X1YT4LRQFWJ
+[2026.11.12-17.13.07:032][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/97/1BNJHMMQQX0X1YT4LRQFWJ
+[2026.11.12-17.13.07:032][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/1BNJHMMQQX0X1YT4LRQFWJ4A895CA7416CADABAC9AA4A794DDC827.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/97/1BNJHMMQQX0X1YT4LRQFWJ.uasset'
+[2026.11.12-17.13.07:033][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/IS/E6H22WKO1D43B03XUIWFYH
+[2026.11.12-17.13.07:038][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/IS/E6H22WKO1D43B03XUIWFYH
+[2026.11.12-17.13.07:038][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/E6H22WKO1D43B03XUIWFYH3DE3075B4F2A0BC460F0B4B9D571E09B.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/IS/E6H22WKO1D43B03XUIWFYH.uasset'
+[2026.11.12-17.13.07:039][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/A/67/PHGQ311W0I47HLBQOMN78N
+[2026.11.12-17.13.07:046][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/67/PHGQ311W0I47HLBQOMN78N
+[2026.11.12-17.13.07:046][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/PHGQ311W0I47HLBQOMN78ND96F81094E22C66C6282DB816FFFFCFA.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/A/67/PHGQ311W0I47HLBQOMN78N.uasset'
+[2026.11.12-17.13.07:047][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/9R/L1GK7DYD2GP29JUWIMTIG2
+[2026.11.12-17.13.07:054][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/9R/L1GK7DYD2GP29JUWIMTIG2
+[2026.11.12-17.13.07:054][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/L1GK7DYD2GP29JUWIMTIG2E8593A6743E0DC5093684990C4E346B7.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/9R/L1GK7DYD2GP29JUWIMTIG2.uasset'
+[2026.11.12-17.13.07:055][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/WK/CSTAD843LU4BL8QVRBLC7Q
+[2026.11.12-17.13.07:061][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/WK/CSTAD843LU4BL8QVRBLC7Q
+[2026.11.12-17.13.07:061][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/CSTAD843LU4BL8QVRBLC7Q112349F84E8302A36073B4A0FB009D9C.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/WK/CSTAD843LU4BL8QVRBLC7Q.uasset'
+[2026.11.12-17.13.07:062][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/3/B9/6Y3MRWW82UT3QPVGD1G3QO
+[2026.11.12-17.13.07:069][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/B9/6Y3MRWW82UT3QPVGD1G3QO
+[2026.11.12-17.13.07:069][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/6Y3MRWW82UT3QPVGD1G3QOC6B0215342BB9955EAB3B4841A815CC3.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/3/B9/6Y3MRWW82UT3QPVGD1G3QO.uasset'
+[2026.11.12-17.13.07:070][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/UY/DPBO9ANQQY6RCCCSYUWS3Q
+[2026.11.12-17.13.07:077][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/UY/DPBO9ANQQY6RCCCSYUWS3Q
+[2026.11.12-17.13.07:077][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/DPBO9ANQQY6RCCCSYUWS3Q67FB55974A050A4F2593D0AD6ADA21C2.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/UY/DPBO9ANQQY6RCCCSYUWS3Q.uasset'
+[2026.11.12-17.13.07:078][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/A/9P/WVYL3CT8PUXPUIOZ87SKVM
+[2026.11.12-17.13.07:085][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/9P/WVYL3CT8PUXPUIOZ87SKVM
+[2026.11.12-17.13.07:085][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/WVYL3CT8PUXPUIOZ87SKVM6EB3BB3A40FEA36E3B52F5A73522646A.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/A/9P/WVYL3CT8PUXPUIOZ87SKVM.uasset'
+[2026.11.12-17.13.07:086][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/KO/JZ20RBYDLQDUY1UMIBTNKJ
+[2026.11.12-17.13.07:094][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/KO/JZ20RBYDLQDUY1UMIBTNKJ
+[2026.11.12-17.13.07:094][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/JZ20RBYDLQDUY1UMIBTNKJ00FB77BB48B811DEBC8DB5A85BFE4179.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/KO/JZ20RBYDLQDUY1UMIBTNKJ.uasset'
+[2026.11.12-17.13.07:095][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/D2/ASDX0NF4TWKZCFNNBCRK94
+[2026.11.12-17.13.07:100][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/D2/ASDX0NF4TWKZCFNNBCRK94
+[2026.11.12-17.13.07:100][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/ASDX0NF4TWKZCFNNBCRK9424F741F84DD4433F6CD193A0BA22FEB2.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/D2/ASDX0NF4TWKZCFNNBCRK94.uasset'
+[2026.11.12-17.13.07:101][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/WF/04XT66HK1HYLONG0445TYW
+[2026.11.12-17.13.07:108][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/WF/04XT66HK1HYLONG0445TYW
+[2026.11.12-17.13.07:108][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/04XT66HK1HYLONG0445TYW5E86163948C6025900E956B9975A90D1.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/WF/04XT66HK1HYLONG0445TYW.uasset'
+[2026.11.12-17.13.07:108][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/QQ/B5FL0PX7KRU05RE8R8NVYG
+[2026.11.12-17.13.07:116][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/QQ/B5FL0PX7KRU05RE8R8NVYG
+[2026.11.12-17.13.07:117][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/B5FL0PX7KRU05RE8R8NVYGD768C79A46FDDD7F7F37B180308D57A7.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/QQ/B5FL0PX7KRU05RE8R8NVYG.uasset'
+[2026.11.12-17.13.07:118][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/IB/0ME3L0IQQC35XP3WTCER7S
+[2026.11.12-17.13.07:124][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/IB/0ME3L0IQQC35XP3WTCER7S
+[2026.11.12-17.13.07:124][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/0ME3L0IQQC35XP3WTCER7S083E03D849B69D3BAE2E22B6F3FED29B.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/IB/0ME3L0IQQC35XP3WTCER7S.uasset'
+[2026.11.12-17.13.07:125][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/8U/E6KFMEO6X1KD4NT7WSMCJB
+[2026.11.12-17.13.07:132][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/8U/E6KFMEO6X1KD4NT7WSMCJB
+[2026.11.12-17.13.07:132][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/E6KFMEO6X1KD4NT7WSMCJB7EAFF6F846FBA4EE37E86EBE5ABF639D.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/8U/E6KFMEO6X1KD4NT7WSMCJB.uasset'
+[2026.11.12-17.13.07:133][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/F/5D/673I1CVFEXV3XU6CMQ94NW
+[2026.11.12-17.13.07:139][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/F/5D/673I1CVFEXV3XU6CMQ94NW
+[2026.11.12-17.13.07:139][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/673I1CVFEXV3XU6CMQ94NW37AAD9FF4B54955233ED848F57FA6F97.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/F/5D/673I1CVFEXV3XU6CMQ94NW.uasset'
+[2026.11.12-17.13.07:140][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/52/7KDCJ17Y7FUG8YCA2LVOYY
+[2026.11.12-17.13.07:146][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/52/7KDCJ17Y7FUG8YCA2LVOYY
+[2026.11.12-17.13.07:146][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/7KDCJ17Y7FUG8YCA2LVOYY4213C7D646D82E86414CDCAF2D7C1C16.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/52/7KDCJ17Y7FUG8YCA2LVOYY.uasset'
+[2026.11.12-17.13.07:147][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/1/NB/ZL4N0YHG8XTYPO576H4XMT
+[2026.11.12-17.13.07:154][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/NB/ZL4N0YHG8XTYPO576H4XMT
+[2026.11.12-17.13.07:154][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/ZL4N0YHG8XTYPO576H4XMTBA5341C846111598041B0A82A734C231.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/1/NB/ZL4N0YHG8XTYPO576H4XMT.uasset'
+[2026.11.12-17.13.07:155][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/KD/MYAAWX54IXYDD4DNJ70H3A
+[2026.11.12-17.13.07:161][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/KD/MYAAWX54IXYDD4DNJ70H3A
+[2026.11.12-17.13.07:161][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/MYAAWX54IXYDD4DNJ70H3A3756DAAC44292C27699301BCB5F6C012.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/KD/MYAAWX54IXYDD4DNJ70H3A.uasset'
+[2026.11.12-17.13.07:162][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/S5/BHPJ4CBZQ253QQRD1GO4N5
+[2026.11.12-17.13.07:169][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/S5/BHPJ4CBZQ253QQRD1GO4N5
+[2026.11.12-17.13.07:169][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/BHPJ4CBZQ253QQRD1GO4N5C418843E4110630292743E9C928C66A7.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/S5/BHPJ4CBZQ253QQRD1GO4N5.uasset'
+[2026.11.12-17.13.07:170][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/J5/V7D1ABOGN7DS3YKJNQH4CF
+[2026.11.12-17.13.07:176][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/J5/V7D1ABOGN7DS3YKJNQH4CF
+[2026.11.12-17.13.07:176][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/V7D1ABOGN7DS3YKJNQH4CF7942AF7742027D84144550932906F69A.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/J5/V7D1ABOGN7DS3YKJNQH4CF.uasset'
+[2026.11.12-17.13.07:177][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/15/IH6WWLDLJX2R5Z7UQZH2WZ
+[2026.11.12-17.13.07:185][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/15/IH6WWLDLJX2R5Z7UQZH2WZ
+[2026.11.12-17.13.07:185][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/IH6WWLDLJX2R5Z7UQZH2WZ6DE3B61B4DD493CF7C6B0B8B1FB0CD3B.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/15/IH6WWLDLJX2R5Z7UQZH2WZ.uasset'
+[2026.11.12-17.13.07:187][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/U1/IDSP8BRFDRCJ8VES6TNV9W
+[2026.11.12-17.13.07:194][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/U1/IDSP8BRFDRCJ8VES6TNV9W
+[2026.11.12-17.13.07:194][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/IDSP8BRFDRCJ8VES6TNV9WD9726EB945C841E711A40D931C429812.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/U1/IDSP8BRFDRCJ8VES6TNV9W.uasset'
+[2026.11.12-17.13.07:195][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/47/1HJWJDHUPHYQV5RBSMX7KN
+[2026.11.12-17.13.07:201][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/47/1HJWJDHUPHYQV5RBSMX7KN
+[2026.11.12-17.13.07:201][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/1HJWJDHUPHYQV5RBSMX7KN248ED4634547893AFEB083BFF402F577.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/47/1HJWJDHUPHYQV5RBSMX7KN.uasset'
+[2026.11.12-17.13.07:202][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/DH/CVY1LBFPLRJ4K62XHZUJEE
+[2026.11.12-17.13.07:210][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/DH/CVY1LBFPLRJ4K62XHZUJEE
+[2026.11.12-17.13.07:210][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/CVY1LBFPLRJ4K62XHZUJEEB5138B3F4253EA252A682AB8920CD164.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/DH/CVY1LBFPLRJ4K62XHZUJEE.uasset'
+[2026.11.12-17.13.07:211][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/BW/CGXY3D19N3OEAX82NC9WMV
+[2026.11.12-17.13.07:218][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/BW/CGXY3D19N3OEAX82NC9WMV
+[2026.11.12-17.13.07:218][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/CGXY3D19N3OEAX82NC9WMV5E8FD54A4556299F987B47B5CA160887.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/BW/CGXY3D19N3OEAX82NC9WMV.uasset'
+[2026.11.12-17.13.07:218][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/UD/SNSQVROP93X2ZDQHGDK3EY
+[2026.11.12-17.13.07:225][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/UD/SNSQVROP93X2ZDQHGDK3EY
+[2026.11.12-17.13.07:225][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/SNSQVROP93X2ZDQHGDK3EY1FEC5CB44E306744E7C131B6472BB189.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/UD/SNSQVROP93X2ZDQHGDK3EY.uasset'
+[2026.11.12-17.13.07:226][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/CC/5EN947WLQDAY0U8P1YO40I
+[2026.11.12-17.13.07:234][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/CC/5EN947WLQDAY0U8P1YO40I
+[2026.11.12-17.13.07:234][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/5EN947WLQDAY0U8P1YO40IE8EA793F49068C6B0C579EA9CE755B91.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/CC/5EN947WLQDAY0U8P1YO40I.uasset'
+[2026.11.12-17.13.07:235][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/6V/OE7IMYN5CZYX1QUQGBEI22
+[2026.11.12-17.13.07:240][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/6V/OE7IMYN5CZYX1QUQGBEI22
+[2026.11.12-17.13.07:240][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/OE7IMYN5CZYX1QUQGBEI22E6FA2B1141944B5370B484805EB9809E.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/6V/OE7IMYN5CZYX1QUQGBEI22.uasset'
+[2026.11.12-17.13.07:241][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/B1/06DRG406E1CQOKA7MVPXB2
+[2026.11.12-17.13.07:248][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/B1/06DRG406E1CQOKA7MVPXB2
+[2026.11.12-17.13.07:248][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/06DRG406E1CQOKA7MVPXB2B47C5CE94AED674D439BC180C1E2F9EB.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/B1/06DRG406E1CQOKA7MVPXB2.uasset'
+[2026.11.12-17.13.07:249][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/9N/HQQXDVN2J42U9HR516WQZM
+[2026.11.12-17.13.07:256][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/9N/HQQXDVN2J42U9HR516WQZM
+[2026.11.12-17.13.07:256][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/HQQXDVN2J42U9HR516WQZMCA63D9FB46B7905F477569A51E1D08A7.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/9N/HQQXDVN2J42U9HR516WQZM.uasset'
+[2026.11.12-17.13.07:257][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/2K/95SIJ6KMJDSI3879C4MJTW
+[2026.11.12-17.13.07:263][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/2K/95SIJ6KMJDSI3879C4MJTW
+[2026.11.12-17.13.07:263][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/95SIJ6KMJDSI3879C4MJTW4E8494204F03C557F88EAA9EDAF7E726.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/2K/95SIJ6KMJDSI3879C4MJTW.uasset'
+[2026.11.12-17.13.07:264][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/2A/O1OF9Q0X3ZSM4UC7UDXZFG
+[2026.11.12-17.13.07:271][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/2A/O1OF9Q0X3ZSM4UC7UDXZFG
+[2026.11.12-17.13.07:271][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/O1OF9Q0X3ZSM4UC7UDXZFGAECD995E4B446732508541AE62211FE5.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/2A/O1OF9Q0X3ZSM4UC7UDXZFG.uasset'
+[2026.11.12-17.13.07:272][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/RJ/BQEH07N4N5L0IQWEYZOPAN
+[2026.11.12-17.13.07:278][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/RJ/BQEH07N4N5L0IQWEYZOPAN
+[2026.11.12-17.13.07:278][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/BQEH07N4N5L0IQWEYZOPAN5E95D4964903751F4188FD929878C184.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/RJ/BQEH07N4N5L0IQWEYZOPAN.uasset'
+[2026.11.12-17.13.07:279][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/A/8O/9DWOUDRK5U24DGTTG04ARZ
+[2026.11.12-17.13.07:285][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/A/8O/9DWOUDRK5U24DGTTG04ARZ
+[2026.11.12-17.13.07:285][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/9DWOUDRK5U24DGTTG04ARZ8D749AEC43FA7174CE6C179A71570FE7.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/A/8O/9DWOUDRK5U24DGTTG04ARZ.uasset'
+[2026.11.12-17.13.07:286][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/O8/W1JVN4HNQR8HPEW1YJICGJ
+[2026.11.12-17.13.07:293][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/O8/W1JVN4HNQR8HPEW1YJICGJ
+[2026.11.12-17.13.07:293][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/W1JVN4HNQR8HPEW1YJICGJ6F48FFCC40A7731E622F6CA25408304B.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/O8/W1JVN4HNQR8HPEW1YJICGJ.uasset'
+[2026.11.12-17.13.07:294][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/WM/R1LYLOJ5GJOZ0PCLDJL1EM
+[2026.11.12-17.13.07:299][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/WM/R1LYLOJ5GJOZ0PCLDJL1EM
+[2026.11.12-17.13.07:299][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/R1LYLOJ5GJOZ0PCLDJL1EMC79D1B5542F1F5A37A4B5E9FB6C16422.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/WM/R1LYLOJ5GJOZ0PCLDJL1EM.uasset'
+[2026.11.12-17.13.07:302][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/G9/PXZBFLP8LJK7A9CL5A2VUM
+[2026.11.12-17.13.07:308][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/G9/PXZBFLP8LJK7A9CL5A2VUM
+[2026.11.12-17.13.07:308][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/PXZBFLP8LJK7A9CL5A2VUM58D591AC49949248B1B3B9A11883F318.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/G9/PXZBFLP8LJK7A9CL5A2VUM.uasset'
+[2026.11.12-17.13.07:308][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/24/NJN8I8XC28CLZL7VOPPOUV
+[2026.11.12-17.13.07:315][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/24/NJN8I8XC28CLZL7VOPPOUV
+[2026.11.12-17.13.07:315][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/NJN8I8XC28CLZL7VOPPOUV11184D49494E2AAAE3C340961BEACB68.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/24/NJN8I8XC28CLZL7VOPPOUV.uasset'
+[2026.11.12-17.13.07:316][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/63/I9HSDTLACW5ZS8WXJ7E0MJ
+[2026.11.12-17.13.07:324][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/63/I9HSDTLACW5ZS8WXJ7E0MJ
+[2026.11.12-17.13.07:324][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/I9HSDTLACW5ZS8WXJ7E0MJADFECEBA4098FBDD75D26193A35D7046.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/63/I9HSDTLACW5ZS8WXJ7E0MJ.uasset'
+[2026.11.12-17.13.07:325][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/GZ/GRWZ92WHXKID8WOTCHVS0E
+[2026.11.12-17.13.07:332][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/GZ/GRWZ92WHXKID8WOTCHVS0E
+[2026.11.12-17.13.07:332][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/GRWZ92WHXKID8WOTCHVS0E973B89574B83F505A3D626AF3DFB55EA.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/GZ/GRWZ92WHXKID8WOTCHVS0E.uasset'
+[2026.11.12-17.13.07:333][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/BI/NKGNXENCE9F1LITT1H36ZI
+[2026.11.12-17.13.07:339][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/BI/NKGNXENCE9F1LITT1H36ZI
+[2026.11.12-17.13.07:339][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/NKGNXENCE9F1LITT1H36ZIDA66004647811E2CC6789FA819D33191.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/BI/NKGNXENCE9F1LITT1H36ZI.uasset'
+[2026.11.12-17.13.07:340][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/PU/IX1ZKZH53TAY63JEXLVGWR
+[2026.11.12-17.13.07:346][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/PU/IX1ZKZH53TAY63JEXLVGWR
+[2026.11.12-17.13.07:346][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/IX1ZKZH53TAY63JEXLVGWR233F4FD54405ACFF96ACD1A4E5B5CC14.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/PU/IX1ZKZH53TAY63JEXLVGWR.uasset'
+[2026.11.12-17.13.07:347][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/L7/3J1YLHVDJYAUP19X8E4Q8A
+[2026.11.12-17.13.07:354][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/L7/3J1YLHVDJYAUP19X8E4Q8A
+[2026.11.12-17.13.07:354][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/3J1YLHVDJYAUP19X8E4Q8A975DE9714570B44B03A49F8FA9BA0FB0.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/L7/3J1YLHVDJYAUP19X8E4Q8A.uasset'
+[2026.11.12-17.13.07:355][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/DG/TS7VZU4QZWB23QIE8AE9ZJ
+[2026.11.12-17.13.07:361][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/DG/TS7VZU4QZWB23QIE8AE9ZJ
+[2026.11.12-17.13.07:361][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/TS7VZU4QZWB23QIE8AE9ZJ4B8AED734488FAB9F56E13AE125C8701.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/DG/TS7VZU4QZWB23QIE8AE9ZJ.uasset'
+[2026.11.12-17.13.07:362][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/X4/P9XFMEM6AQS3RZPV9JEB7S
+[2026.11.12-17.13.07:368][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/X4/P9XFMEM6AQS3RZPV9JEB7S
+[2026.11.12-17.13.07:368][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/P9XFMEM6AQS3RZPV9JEB7S74C5554F4D840860D452C7BF28D6EAC3.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/X4/P9XFMEM6AQS3RZPV9JEB7S.uasset'
+[2026.11.12-17.13.07:368][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/5/HT/68WDKZWW8EUZG36BN0EMON
+[2026.11.12-17.13.07:376][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/5/HT/68WDKZWW8EUZG36BN0EMON
+[2026.11.12-17.13.07:376][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/68WDKZWW8EUZG36BN0EMON49DFB335434236E71CF62EBDC2632BE9.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/5/HT/68WDKZWW8EUZG36BN0EMON.uasset'
+[2026.11.12-17.13.07:377][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/1/Q4/H29DYAFYCGQMMEPDWB47V0
+[2026.11.12-17.13.07:385][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/Q4/H29DYAFYCGQMMEPDWB47V0
+[2026.11.12-17.13.07:385][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/H29DYAFYCGQMMEPDWB47V09C297BCD411ECEFAACDCFEB023922445.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/1/Q4/H29DYAFYCGQMMEPDWB47V0.uasset'
+[2026.11.12-17.13.07:387][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/B/KE/S1FJEPHK8HODXXHOZYUL7Z
+[2026.11.12-17.13.07:394][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/B/KE/S1FJEPHK8HODXXHOZYUL7Z
+[2026.11.12-17.13.07:394][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/S1FJEPHK8HODXXHOZYUL7Z4D1705954F20C6A30C408A897B01A551.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/B/KE/S1FJEPHK8HODXXHOZYUL7Z.uasset'
+[2026.11.12-17.13.07:395][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/0/XC/ECMOF7P6JNQ4M6LT9N81US
+[2026.11.12-17.13.07:403][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/0/XC/ECMOF7P6JNQ4M6LT9N81US
+[2026.11.12-17.13.07:403][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/ECMOF7P6JNQ4M6LT9N81US3A52C03448949B9BB81A05B839E0FD25.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/0/XC/ECMOF7P6JNQ4M6LT9N81US.uasset'
+[2026.11.12-17.13.07:404][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/D6/2IJOZGBUNZNJN6PPZND0MW
+[2026.11.12-17.13.07:411][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/D6/2IJOZGBUNZNJN6PPZND0MW
+[2026.11.12-17.13.07:411][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/2IJOZGBUNZNJN6PPZND0MW6A188C4C4CE421159D0D72BF047A3C3E.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/D6/2IJOZGBUNZNJN6PPZND0MW.uasset'
+[2026.11.12-17.13.07:412][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/3/9K/14NWD4CYA2G0XSKDAZ3Y27
+[2026.11.12-17.13.07:418][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/9K/14NWD4CYA2G0XSKDAZ3Y27
+[2026.11.12-17.13.07:418][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/14NWD4CYA2G0XSKDAZ3Y27F3944F39413A35EBDF605E90AE2CA388.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/3/9K/14NWD4CYA2G0XSKDAZ3Y27.uasset'
+[2026.11.12-17.13.07:420][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/6R/QJES4K4ON12E3LUMVG0AZV
+[2026.11.12-17.13.07:427][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/6R/QJES4K4ON12E3LUMVG0AZV
+[2026.11.12-17.13.07:427][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/QJES4K4ON12E3LUMVG0AZVD960EEA2488C9F0B21C7478C3C16862B.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/6R/QJES4K4ON12E3LUMVG0AZV.uasset'
+[2026.11.12-17.13.07:428][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/3/4K/URR8UX52WJD46GYQYSWE8B
+[2026.11.12-17.13.07:435][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/3/4K/URR8UX52WJD46GYQYSWE8B
+[2026.11.12-17.13.07:435][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/URR8UX52WJD46GYQYSWE8BA8D3D06C4C85CDD809146EA865450850.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/3/4K/URR8UX52WJD46GYQYSWE8B.uasset'
+[2026.11.12-17.13.07:436][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/2/42/6ZTKYAQ1QT7Z6EPN0PXO8M
+[2026.11.12-17.13.07:442][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/2/42/6ZTKYAQ1QT7Z6EPN0PXO8M
+[2026.11.12-17.13.07:442][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/6ZTKYAQ1QT7Z6EPN0PXO8MA3A7978E46FF9193D3A5C7B58CAE6B01.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/2/42/6ZTKYAQ1QT7Z6EPN0PXO8M.uasset'
+[2026.11.12-17.13.07:444][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/E/O8/KWK6FBTOZY2S9O39Q9N0OT
+[2026.11.12-17.13.07:449][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/E/O8/KWK6FBTOZY2S9O39Q9N0OT
+[2026.11.12-17.13.07:449][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/KWK6FBTOZY2S9O39Q9N0OT96B424784356BAEAC57340A89351D862.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/E/O8/KWK6FBTOZY2S9O39Q9N0OT.uasset'
+[2026.11.12-17.13.07:450][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/F1/PPF9ZWSSPVFA6JAIJXSO14
+[2026.11.12-17.13.07:457][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/F1/PPF9ZWSSPVFA6JAIJXSO14
+[2026.11.12-17.13.07:457][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/PPF9ZWSSPVFA6JAIJXSO143818288B46916E1C899938854AB1814F.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/F1/PPF9ZWSSPVFA6JAIJXSO14.uasset'
+[2026.11.12-17.13.07:458][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/6/CR/C7DW0FKUXLD6Z8AP2D61NO
+[2026.11.12-17.13.07:467][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/6/CR/C7DW0FKUXLD6Z8AP2D61NO
+[2026.11.12-17.13.07:467][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/C7DW0FKUXLD6Z8AP2D61NO049AA8BC4C9F73A4D942E3AF627D02C4.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/6/CR/C7DW0FKUXLD6Z8AP2D61NO.uasset'
+[2026.11.12-17.13.07:468][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/UB/8TWCWHA1KOFMLZPOFIC95S
+[2026.11.12-17.13.07:474][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/UB/8TWCWHA1KOFMLZPOFIC95S
+[2026.11.12-17.13.07:474][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/8TWCWHA1KOFMLZPOFIC95SBDA774EF4DD5FDDFD515CBAAB80AC6CA.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/UB/8TWCWHA1KOFMLZPOFIC95S.uasset'
+[2026.11.12-17.13.07:475][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/9/RA/4LQ8MRIE535JHG6AZQKVOT
+[2026.11.12-17.13.07:482][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/9/RA/4LQ8MRIE535JHG6AZQKVOT
+[2026.11.12-17.13.07:482][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/4LQ8MRIE535JHG6AZQKVOTB405A08548A24D9B9A5363A2A339E549.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/9/RA/4LQ8MRIE535JHG6AZQKVOT.uasset'
+[2026.11.12-17.13.07:483][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/C/OZ/2L5OVAGJCSSXWPY97S4VSB
+[2026.11.12-17.13.07:489][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/C/OZ/2L5OVAGJCSSXWPY97S4VSB
+[2026.11.12-17.13.07:489][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/2L5OVAGJCSSXWPY97S4VSBFF6B1D1B4B319C74D5907681CABB983D.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/C/OZ/2L5OVAGJCSSXWPY97S4VSB.uasset'
+[2026.11.12-17.13.07:489][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/1/K4/VJPBTJVEKK23J0ZK0UDJ6S
+[2026.11.12-17.13.07:496][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/1/K4/VJPBTJVEKK23J0ZK0UDJ6S
+[2026.11.12-17.13.07:496][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/VJPBTJVEKK23J0ZK0UDJ6S459C7B9D427255DA1C87FCAC2A5ACFB5.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/1/K4/VJPBTJVEKK23J0ZK0UDJ6S.uasset'
+[2026.11.12-17.13.07:497][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/8/LT/EIG6D1AF1YJC9RGRBNG1J3
+[2026.11.12-17.13.07:504][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/8/LT/EIG6D1AF1YJC9RGRBNG1J3
+[2026.11.12-17.13.07:504][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/EIG6D1AF1YJC9RGRBNG1J36D0D84C4499332F71B6826907F121CEE.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/8/LT/EIG6D1AF1YJC9RGRBNG1J3.uasset'
+[2026.11.12-17.13.07:506][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/EB/OR4F4HYS30651O2K03PVZ8
+[2026.11.12-17.13.07:512][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/EB/OR4F4HYS30651O2K03PVZ8
+[2026.11.12-17.13.07:512][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/OR4F4HYS30651O2K03PVZ8D5659535459A79F64F5AC28FF8437DAE.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/EB/OR4F4HYS30651O2K03PVZ8.uasset'
+[2026.11.12-17.13.07:513][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/7/YJ/O6Y3LL2OM5TQ20L2WCK01I
+[2026.11.12-17.13.07:522][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/7/YJ/O6Y3LL2OM5TQ20L2WCK01I
+[2026.11.12-17.13.07:522][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/O6Y3LL2OM5TQ20L2WCK01I8F716A684E8C375C89A0F6AFA0AFF535.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/7/YJ/O6Y3LL2OM5TQ20L2WCK01I.uasset'
+[2026.11.12-17.13.07:523][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/4/MO/50B71HJJ6TYVPDLZYQSJIA
+[2026.11.12-17.13.07:530][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/4/MO/50B71HJJ6TYVPDLZYQSJIA
+[2026.11.12-17.13.07:530][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/50B71HJJ6TYVPDLZYQSJIA6E896E1F48E19E54FE36CCB51EAB4230.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/4/MO/50B71HJJ6TYVPDLZYQSJIA.uasset'
+[2026.11.12-17.13.07:531][154]LogFileHelpers: Saving Package: /Game/__ExternalActors__/MainMap/D/V5/9JR029MOJ8Q246ANBALC9D
+[2026.11.12-17.13.07:555][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MainMap/D/V5/9JR029MOJ8Q246ANBALC9D
+[2026.11.12-17.13.07:555][154]LogSavePackage: Moving '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/9JR029MOJ8Q246ANBALC9DF918DED942F3CBBDFDA56482C442B6C1.tmp' to '../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Content/__ExternalActors__/MainMap/D/V5/9JR029MOJ8Q246ANBALC9D.uasset'
+[2026.11.12-17.13.07:579][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.26 sec (total: 30.3 sec)
+[2026.11.12-17.13.07:671][154]LogContentValidation: Enabled validators:
+[2026.11.12-17.13.07:671][154]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.12-17.13.07:671][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.12-17.13.07:671][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.12-17.13.07:671][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.12-17.13.07:671][154]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.12-17.13.07:671][154]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.12-17.13.07:671][154]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.12-17.13.07:671][154]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.12-17.13.07:671][154]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.12-17.13.07:671][154]LogContentValidation: Display: Starting to validate 1 assets (263 associated objects such as actors)
+[2026.11.12-17.13.07:671][154]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.12-17.13.07:672][154]AssetCheck: /Game/MainMap Validating asset
+[2026.11.12-17.13.07:672][154]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.12-17.13.07:672][154]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.12-17.13.07:672][154]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.12-17.13.07:672][154]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.11.12-17.13.07:672][154]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.12-17.13.07:672][154]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.12-17.13.07:672][154]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.12-17.13.07:672][154]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.12-17.13.07:672][154]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.12-17.13.07:672][154]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.12-17.13.07:762][154]LogAutomationController: Ignoring very large delta of 2.77 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.11.12-17.13.07:765][154]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/toCoolForSchoolUnreal/toCoolForSchool/Saved/SourceControl/UncontrolledChangelists.json
