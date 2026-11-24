@@ -1,0 +1,74 @@
+[4632:28836:1112/105947.047:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4632:3132:1112/105947.105:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4632:28836:1112/105947.123:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15208:16460:1112/105948.602:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8636B0C9885C4970A8DE94A4B1B01EE7 will be ignored
+[4632:5320:1112/110049.625:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[4632:28836:1112/110049.722:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[4632:28836:1112/110049.722:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[4632:28836:1112/110049.722:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[4632:28836:1112/110049.722:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,10]
+[4632:28836:1112/110049.723:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[4632:28836:1112/110049.723:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[4632:28836:1112/110049.723:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[4632:28836:1112/110049.723:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
+[4632:28836:1112/110050.551:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[4632:28836:1112/110050.551:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[14708:22524:1112/110159.654:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[14708:16592:1112/110159.715:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[14708:22524:1112/110200.053:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[14708:10384:1112/110200.062:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[14708:19540:1112/110200.109:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[29372:19804:1112/112107.280:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-66631375F96295C6F346CF363AB43382 will be ignored
+[4632:5320:1112/112129.442:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,11]
+[4632:28836:1112/112129.445:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,11]
+[4632:28836:1112/112129.445:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,11]
+[4632:28836:1112/112129.445:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,11]
+[4632:28836:1112/112129.445:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,11]
+[4632:28836:1112/112129.445:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,14]
+[4632:28836:1112/112129.445:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,14]
+[4632:28836:1112/112129.445:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,14]
+[4632:28836:1112/112129.446:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,14]
+[4632:28836:1112/112129.841:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[4632:28836:1112/112129.841:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[14708:15212:1112/112130.778:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[14708:14568:1112/112135.981:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14708:14568:1112/112137.764:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14708:22332:1112/112413.514:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[4632:28836:1112/113224.494:ERROR:device_event_log_impl.cc(196)] [11:32:24.493] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4632:28836:1112/113224.737:ERROR:device_event_log_impl.cc(196)] [11:32:24.731] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4632:28836:1112/113224.750:ERROR:device_event_log_impl.cc(196)] [11:32:24.746] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[4632:28836:1112/113225.996:ERROR:device_event_log_impl.cc(196)] [11:32:25.987] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4632:28836:1112/113226.002:ERROR:device_event_log_impl.cc(196)] [11:32:25.999] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4632:28836:1112/113226.009:ERROR:device_event_log_impl.cc(196)] [11:32:26.001] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[4632:28836:1112/113228.109:ERROR:device_event_log_impl.cc(196)] [11:32:28.073] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4632:28836:1112/113236.878:ERROR:device_event_log_impl.cc(196)] [11:32:36.866] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4632:28836:1112/113236.886:ERROR:device_event_log_impl.cc(196)] [11:32:36.882] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4632:28836:1112/113236.886:ERROR:device_event_log_impl.cc(196)] [11:32:36.885] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[4632:28836:1112/113236.900:ERROR:device_event_log_impl.cc(196)] [11:32:36.895] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4632:28836:1112/113241.106:ERROR:device_event_log_impl.cc(196)] [11:32:41.097] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4632:28836:1112/113537.042:ERROR:device_event_log_impl.cc(196)] [11:35:37.033] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4632:28836:1112/113537.047:ERROR:device_event_log_impl.cc(196)] [11:35:37.046] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4632:28836:1112/113537.056:ERROR:device_event_log_impl.cc(196)] [11:35:37.051] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[4632:28836:1112/113537.072:ERROR:device_event_log_impl.cc(196)] [11:35:37.064] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4632:28836:1112/113539.120:ERROR:device_event_log_impl.cc(196)] [11:35:39.112] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4632:28836:1112/113741.868:ERROR:device_event_log_impl.cc(196)] [11:37:41.850] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[14708:10384:1112/114141.074:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
