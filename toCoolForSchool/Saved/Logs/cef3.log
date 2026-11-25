@@ -14,3 +14,4 @@
 [28084:30252:1124/184844.557:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,13]
 [28084:30252:1124/184845.919:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
 [28084:30252:1124/184845.919:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[28084:30252:1124/195615.542:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
