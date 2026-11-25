@@ -6795,3 +6795,163 @@ Make sure '/Game/ClownFishPlayer/PlayerAnimBlueprint.PlayerAnimBlueprint_C' has 
 [2026.11.25-00.54.57:295][788]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
 [2026.11.25-00.54.57:295][788]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
 [2026.11.25-00.54.57:321][788]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.25-00.56.05:493][102]LogSlate: Window 'IA_Look' being destroyed
+[2026.11.25-00.56.05:504][102]LogSlate: Window 'IA_Look' being destroyed
+[2026.11.25-00.56.05:504][102]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettingsA35B37A6466D98C69FE6FD8681951C34.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.05:505][102]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettings978F41BF471A9B6F133EA6AD8AC95B15.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.05:514][102]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.05:514][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.05:846][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.11.25-00.56.06:004][103]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettingsA35B37A6466D98C69FE6FD8681951C34.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.06:006][103]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettings978F41BF471A9B6F133EA6AD8AC95B15.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.06:505][125]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettingsA35B37A6466D98C69FE6FD8681951C34.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.06:507][125]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettings978F41BF471A9B6F133EA6AD8AC95B15.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.07:006][147]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettingsA35B37A6466D98C69FE6FD8681951C34.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.07:008][147]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettings978F41BF471A9B6F133EA6AD8AC95B15.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.07:507][168]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettingsA35B37A6466D98C69FE6FD8681951C34.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.07:509][168]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettings978F41BF471A9B6F133EA6AD8AC95B15.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.08:008][189]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettingsA35B37A6466D98C69FE6FD8681951C34.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.08:010][189]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettings978F41BF471A9B6F133EA6AD8AC95B15.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.08:384][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.11.25-00.56.08:518][202]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettingsA35B37A6466D98C69FE6FD8681951C34.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.08:518][202]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettings978F41BF471A9B6F133EA6AD8AC95B15.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.09:019][202]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettingsA35B37A6466D98C69FE6FD8681951C34.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.09:019][202]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettings978F41BF471A9B6F133EA6AD8AC95B15.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.09:520][202]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettingsA35B37A6466D98C69FE6FD8681951C34.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.09:520][202]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettings978F41BF471A9B6F133EA6AD8AC95B15.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.10:021][202]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettingsA35B37A6466D98C69FE6FD8681951C34.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.10:021][202]LogFileManager: Warning: MoveFile was unable to move 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettings978F41BF471A9B6F133EA6AD8AC95B15.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini' (Error Code 183), retrying in .5s...
+[2026.11.25-00.56.10:522][202]LogFileManager: Error: Error moving file 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettings978F41BF471A9B6F133EA6AD8AC95B15.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini'.
+[2026.11.25-00.56.10:522][202]LogFileManager: Error: Error moving file 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/EditorPerProjectUserSettingsA35B37A6466D98C69FE6FD8681951C34.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini'.
+[2026.11.25-00.56.12:419][202]LogSlate: Window 'Save Content' being destroyed
+[2026.11.25-00.56.12:429][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.25-00.56.12:456][202]LogFileHelpers: Saving Package: /Game/NewAnimBlueprint
+[2026.11.25-00.56.12:456][202]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewAnimBlueprint] ([2] browsable assets)...
+[2026.11.25-00.56.12:456][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewAnimBlueprint]
+[2026.11.25-00.56.12:456][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimBlueprint" FILE="D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Content/NewAnimBlueprint.uasset" SILENT=true
+[2026.11.25-00.56.12:482][202]LogSavePackage: Moving output files for package: /Game/NewAnimBlueprint
+[2026.11.25-00.56.12:483][202]LogSavePackage: Moving 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/NewAnimBlueprint2EF427EB40813BF3AF02BF8D2A342233.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Content/NewAnimBlueprint.uasset'
+[2026.11.25-00.56.12:484][202]LogFileHelpers: Saving Package: /Game/ClownFishPlayer/PlayerAnimBlueprint
+[2026.11.25-00.56.12:484][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ClownFishPlayer/PlayerAnimBlueprint] ([2] browsable assets)...
+[2026.11.25-00.56.12:484][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/ClownFishPlayer/PlayerAnimBlueprint]
+[2026.11.25-00.56.12:498][202]LogSavePackage: Moving output files for package: /Game/ClownFishPlayer/PlayerAnimBlueprint
+[2026.11.25-00.56.12:498][202]LogSavePackage: Moving 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/PlayerAnimBlueprint3BAE83FC41501D842D47A7B931643333.tmp' to 'D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Content/ClownFishPlayer/PlayerAnimBlueprint.uasset'
+[2026.11.25-00.56.12:509][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.525 ms (total: 7.85 sec)
+[2026.11.25-00.56.12:648][202]LogStall: Shutdown...
+[2026.11.25-00.56.12:654][202]LogStall: Shutdown complete.
+[2026.11.25-00.56.12:679][202]LogSlate: Window 'toCoolForSchool - Unreal Editor' being destroyed
+[2026.11.25-00.56.13:043][202]LogContentValidation: Enabled validators:
+[2026.11.25-00.56.13:043][202]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.25-00.56.13:043][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.25-00.56.13:043][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.25-00.56.13:043][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.25-00.56.13:043][202]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.25-00.56.13:043][202]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.25-00.56.13:043][202]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.25-00.56.13:043][202]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.25-00.56.13:043][202]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.25-00.56.13:043][202]LogContentValidation: Display: Starting to validate 2 assets (0 associated objects such as actors)
+[2026.11.25-00.56.13:043][202]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.25-00.56.13:043][202]AssetCheck: /Game/NewAnimBlueprint Validating asset
+[2026.11.25-00.56.13:044][202]AssetCheck: /Game/ClownFishPlayer/PlayerAnimBlueprint Validating asset
+[2026.11.25-00.56.13:044][202]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.25-00.56.13:044][202]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.25-00.56.13:044][202]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.25-00.56.13:044][202]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.11.25-00.56.13:044][202]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.25-00.56.13:044][202]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.25-00.56.13:044][202]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.25-00.56.13:044][202]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.25-00.56.13:044][202]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.25-00.56.13:044][202]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.25-00.56.13:051][202]Cmd: QUIT_EDITOR
+[2026.11.25-00.56.13:052][202]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.11.25-00.56.13:053][202]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Unity Tutorials/Unity Animation Practice/toCoolForSchoolUnreal/toCoolForSchool/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.25-00.56.13:063][203]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.11.25-00.56.13:063][203]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.11.25-00.56.13:063][203]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.11.25-00.56.13:070][203]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.13:070][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.13:070][203]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/MainMap.MainMap
+[2026.11.25-00.56.13:071][203]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.11.25-00.56.13:088][203]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.11.25-00.56.13:106][203]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.11.25-00.56.13:125][203]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.13:125][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.13:128][203]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.13:128][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.13:131][203]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.13:131][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.13:133][203]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.13:133][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.13:136][203]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.13:136][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.13:138][203]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.13:138][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.13:141][203]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.13:141][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.13:143][203]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.13:143][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.13:145][203]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.13:145][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.13:147][203]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.13:147][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.13:149][203]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.13:149][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.13:152][203]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.13:152][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.13:154][203]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.11.25-00.56.13:154][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.25-00.56.13:159][203]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.11.25-00.56.13:160][203]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.11.25-00.56.13:947][203]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.11.25-00.56.13:947][203]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.11.25-00.56.13:947][203]LogAudio: Display: Audio Device unregistered from world 'MainMap'.
+[2026.11.25-00.56.13:947][203]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.11.25-00.56.13:947][203]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.11.25-00.56.13:955][203]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.25-00.56.13:961][203]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.11.25-00.56.13:961][203]LogAudio: Display: Audio Device Manager Shutdown
+[2026.11.25-00.56.13:986][203]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.11.25-00.56.13:988][203]LogExit: Preparing to exit.
+[2026.11.25-00.56.14:293][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.11.25-00.56.14:342][203]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.25-00.56.14:778][203]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.11.25-00.56.14:778][203]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.11.25-00.56.14:780][203]LogEditorDataStorage: Deinitializing
+[2026.11.25-00.56.14:782][203]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.11.25-00.56.14:782][203]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.11.25-00.56.14:782][203]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.11.25-00.56.14:782][203]LogEditorDataStorage: Resetting TEDS Core.
+[2026.11.25-00.56.14:785][203]LogEditorDataStorage: Reset TEDS Core.
+[2026.11.25-00.56.14:785][203]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.11.25-00.56.14:973][203]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.11.25-00.56.15:010][203]LogExit: Editor shut down
+[2026.11.25-00.56.15:014][203]LogExit: Transaction tracking system shut down
+[2026.11.25-00.56.15:107][203]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.11.25-00.56.15:107][203]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.11.25-00.56.15:112][203]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.11.25-00.56.15:112][203]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.11.25-00.56.15:224][203]LogExit: Object subsystem successfully closed.
+[2026.11.25-00.56.15:338][203]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.11.25-00.56.15:582][203]LogObjectProfiler: Shutdown
+[2026.11.25-00.56.15:582][203]LogMemoryProfiler: Shutdown
+[2026.11.25-00.56.15:582][203]LogNetworkingProfiler: Shutdown
+[2026.11.25-00.56.15:582][203]LogLoadingProfiler: Shutdown
+[2026.11.25-00.56.15:582][203]LogTimingProfiler: Shutdown
+[2026.11.25-00.56.15:583][203]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.11.25-00.56.15:583][203]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.11.25-00.56.15:583][203]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.11.25-00.56.15:583][203]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.11.25-00.56.15:583][203]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.11.25-00.56.16:020][203]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.11.25-00.56.16:026][203]LogNFORDenoise: NFORDenoise function shutting down
+[2026.11.25-00.56.16:026][203]RenderDocPlugin: plugin has been unloaded.
+[2026.11.25-00.56.16:030][203]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.11.25-00.56.16:030][203]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29C65A24-43FF-5C2E-EC95-96994E22BA4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.4-58902052%2B%2B%2BUE5%2BRelease-5.8&UserID=c3b7e6df4b18def834083a8a9180fb03%7Ce2971c54e4e2434bbf6329bbb0b7bd80%7C45c3c740-ff9c-42ca-bf3e-7a584f8fc267&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.11.25-00.56.16:576][203]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.11.25-00.56.16:576][203]LogXGEController: Cleaning working directory: C:/Users/dcuev/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.11.25-00.56.16:579][203]LogPakFile: Destroying PakPlatformFile
+[2026.11.25-00.56.17:133][203]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.11.25-00.56.17:163][203]LogExit: Exiting.
+[2026.11.25-00.56.17:225][203]Log file closed, 11/24/26 19:56:17
